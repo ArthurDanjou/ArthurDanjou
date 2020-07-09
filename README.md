@@ -1,16 +1,6 @@
 ### Hi there 👋
-
-<!--
-**ArthurDanjou/ArthurDanjou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Erisium & for myself
 - 🌱 I’m currently learning VueJs & NuxtJS
 - 👯 I’m looking to collaborate on NuxtJS & AdonisJs 5
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [Twitter](https://twitter.com/ArthurDanj) or contact@arthurdanjou.fr
+- ⚡ Fun fact: I love the DevOps & I would like to become a Software Engineer
