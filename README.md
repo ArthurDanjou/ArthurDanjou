@@ -4,7 +4,10 @@
 ### A Web & Software Developer from Paris, France 🇫🇷
 
 ## Get In Touch ✨
-soon
+[Website](https://arthurdanjou.fr)
+[Twitter](https://twitter.com/ArthurDanj)
+[GitHub](https://github.com/ArthurDanjou)
+[Mail](mailto:me@arthurdanjou.fr)
 
 ---
 ## About me ⭐
