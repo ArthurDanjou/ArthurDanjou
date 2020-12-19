@@ -54,23 +54,23 @@ const me = {
     projects: {
         artsite: {
             description: 'ArtSite is my personnal website',
-            progress: '90%',
+            progress: '100%',
             url: 'https://arthurdanjou.fr/'
         },
         artapi: {
             description: 'ArtApi is my personnal API',
-            progress: '90%',
+            progress: '75%',
             url: 'https://api.arthurdanjou.fr/'
         },
         artclick: {
-            description: 'Artsite is my personnal url shortener',
+            description: 'ArtClick is my personnal url shortener',
             progress: '100%',
             url: 'https://artdanj.to/'
         },
         artcloud: {
-            description: 'Artsite is my personnal instance managment system',
-            progress: '90%',
-            url: 'https://arthurdanjou.fr'
+            description: 'ArtCloud is my personnal instance managment system',
+            progress: '10%',
+            url: 'https://cloud.arthurdanjou.fr'
         }
     }
 }
