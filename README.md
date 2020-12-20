@@ -3,12 +3,6 @@
 # Hi there, I'm Arthur 🙋‍♂️
 ### A Web & Software Developer from Paris, France 🇫🇷
 
-## Get In Touch ✨
-[Website](https://arthurdanjou.fr)
-[Twitter](https://twitter.com/ArthurDanj)
-[GitHub](https://github.com/ArthurDanjou)
-[Mail](mailto:me@arthurdanjou.fr)
-
 ---
 ## About me ⭐
 
@@ -77,7 +71,35 @@ const me = {
 ```
 ---
 
+## Statistics and information about my activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
+
+| Statistics                                  |    Daily    |      Weekly |      Monthly |        Total |
+| :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
+| :computer: Commands                         |       **0** |       **0** |        **0** |        **0** |
+| :hammer: Docker Builds                      |       **0** |       **0** |        **0** |        **0** |
+
+| Informations                 |   State |
+| ---------------------------: | ------: |
+| :musical_note: Music Playing |  **No** | 
+|               :bed: Sleeping |  **No** |
+|        :computer: Developing |  **No** |
+|             :books: Learning |  **No** |
+
+###### Curious how this works? : [api.arthurdanjou.fr/source](https://api.arthurdanjou.fr/source)
+
+## Get In Touch ✨
+Check my website on: [**arthurdanjou.fr**](https://arthurdanjou.fr)
+
+Follow me on Twitter: [**@ArthurDanj**](https://twitter.com/ArthurDanj)
+
+See my work on Github: [**@ArthurDanjou**](https://github.com/ArthurDanjou)
+
+Send me mail to: [**me@arthurdanjou.fr**](mailto:me@arthurdanjou.fr)
+
 ## Dev Stats 📊
 
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou)](https://github.com/anuraghazra/github-readme-stats)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou)](https://github.com/anuraghazra/github-readme-stats)
+
+
+###### README powered by [api.arthurdanjou.fr/](https://api.arthurdanjou.fr/source)
