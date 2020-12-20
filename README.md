@@ -80,11 +80,10 @@ const me = {
 
 | Informations                 |   State |
 | ---------------------------: | ------: |
-| :musical_note: Music Playing |  **No** | 
+| :musical_note: Music Playing |  **No** |
 |               :bed: Sleeping |  **No** |
 |        :computer: Developing |  **No** |
-|             :books: Learning |  **No** |
-
+|             :books: Learning |  **Yes** |
 ###### Curious how this works? : [api.arthurdanjou.fr/source](https://api.arthurdanjou.fr/source)
 
 ## Get In Touch ✨
