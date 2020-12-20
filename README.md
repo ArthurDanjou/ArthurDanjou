@@ -80,7 +80,7 @@ const me = {
 
 | Informations                 |   State |
 | ---------------------------: | ------: |
-| :musical_note: Music Playing |  **No** |
+| :musical_note: Music Playing |  **Yes** |
 |               :bed: Sleeping |  **No** |
 |        :computer: Developing |  **Yes** |
 |             :books: Learning |  **Yes** |
