@@ -83,7 +83,7 @@ const me = {
 | :musical_note: Music Playing |  **No** |
 |               :bed: Sleeping |  **No** |
 |        :computer: Developing |  **Yes** |
-|             :books: Learning |  **No** |
+|             :books: Learning |  **Yes** |
 
 ###### Curious how this works? : [api.arthurdanjou.fr/source](https://api.arthurdanjou.fr/source)
 
