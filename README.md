@@ -73,17 +73,15 @@ const me = {
 
 ## Statistics and information about my activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
 
-| Statistics                                  |    Daily    |      Weekly |      Monthly |        Total |
-| :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :computer: Commands                         |       **0** |       **0** |        **0** |        **0** |
-| :hammer: Docker Builds                      |       **0** |       **0** |        **0** |        **0** |
-
 | Informations                 |   State |
 | ---------------------------: | ------: |
 | :musical_note: Music Playing |  **No** |
 |               :bed: Sleeping |  **No** |
 |        :computer: Developing |  **Yes** |
 |             :books: Learning |  **No** |
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###### Curious how this works? : [api.arthurdanjou.fr/source](https://api.arthurdanjou.fr/source)
 
