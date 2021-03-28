@@ -148,11 +148,6 @@ Vue                      2 repos             █████░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ArthurDanjou/ArthurDanjou/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 ###### Curious how this works? : [api.arthurdanjou.fr/source](https://api.arthurdanjou.fr/source)
