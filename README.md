@@ -81,6 +81,78 @@ const me = {
 |             :books: Learning |  **No** |
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 115 Contributions in the Year 2021
+ > 
+> 📦 26.7 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
+🌆 Daytime    169 commits    ████████████░░░░░░░░░░░░░   50.6% 
+🌃 Evening    125 commits    █████████░░░░░░░░░░░░░░░░   37.43% 
+🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
+Tuesday      50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+Wednesday    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
+Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+Friday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.39% 
+Saturday     68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.36% 
+Sunday       61 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.26%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Vue                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ArthurDanjou/ArthurDanjou/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ###### Curious how this works? : [api.arthurdanjou.fr/source](https://api.arthurdanjou.fr/source)
