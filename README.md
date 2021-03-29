@@ -81,7 +81,7 @@ const me = {
 |             :books: Learning |  **No** |
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
 **🐱 My Github Data** 
 
@@ -124,16 +124,21 @@ Sunday       63 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   2 hrs 3 mins        ███████████████████░░░░░░   77.78% 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 2 hrs 39 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+artsite                  2 hrs 10 mins       ████████████████████░░░░░   81.82% 
+arthurdanjou             28 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.18%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 39 mins       █████████████████████████   100.0%
 
 ```
 
