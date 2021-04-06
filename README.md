@@ -77,8 +77,8 @@ const me = {
 | ---------------------------: | ------: |
 | :musical_note: Music Playing |  **No** |
 |               :bed: Sleeping |  **No** |
-|        :computer: Developing |  **No** |
-|             :books: Learning |  **Yes** |
+|        :computer: Developing |  **Yes** |
+|             :books: Learning |  **No** |
 
 ###### Curious how this works? : [api.arthurdanjou.fr/source](https://api.arthurdanjou.fr/source)
 
