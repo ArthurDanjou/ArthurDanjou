@@ -71,7 +71,7 @@ const me = {
 ```
 ---
 
-## Statistics and information about my activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
+## Information about my activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
 
 | Informations                 |   State |
 | ---------------------------: | ------: |
