@@ -82,6 +82,11 @@ const me = {
 
 ###### Curious how this works? : [api.arthurdanjou.fr/source](https://api.arthurdanjou.fr/source)
 
+## Statistics about my dev activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Get In Touch ✨
 Check my website on: [**arthurdanjou.fr**](https://arthurdanjou.fr)
 
