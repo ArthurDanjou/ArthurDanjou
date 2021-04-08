@@ -174,4 +174,4 @@ Send me mail to: [**me@arthurdanjou.fr**](mailto:me@arthurdanjou.fr)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou)](https://github.com/anuraghazra/github-readme-stats)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###### README powered by [api.arthurdanjou.fr/](https://api.arthurdanjou.fr)
+###### ⚡README powered by [api.arthurdanjou.fr/](https://api.arthurdanjou.fr)
