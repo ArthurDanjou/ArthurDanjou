@@ -76,7 +76,7 @@ const me = {
 | Informations                 |   State |
 | ---------------------------: | ------: |
 | :musical_note: Music Playing |  **No** |
-|               :bed: Sleeping |  **Yes** |
+|               :bed: Sleeping |  **No** |
 |        :computer: Developing |  **No** |
 |             :books: Learning |  **No** |
 
