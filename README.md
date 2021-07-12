@@ -89,7 +89,7 @@ const me = {
 
 > 🏆 487 Contributions in the Year 2021
  > 
-> 📦 22.9 kB Used in Github's Storage 
+> 📦 23.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -156,7 +156,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2021
+ Last Updated on 12/07/2021
 <!--END_SECTION:waka-->
 
 ## Get In Touch ✨
