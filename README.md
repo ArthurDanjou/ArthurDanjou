@@ -43,44 +43,11 @@ const me = {
         databases: ["MongoDB", "MariaDB", "Redis"],
         messaging: ["RabbitMq"],
         other: ["Docker", "Git"],
-        architecture: ["microservices", "event-driven", "design system pattern"],
-    },
-    projects: {
-        artsite: {
-            description: 'ArtSite is my personnal website',
-            progress: '100%',
-            url: 'https://arthurdanjou.fr/'
-        },
-        artapi: {
-            description: 'ArtApi is my personnal API',
-            progress: '75%',
-            url: 'https://api.arthurdanjou.fr/'
-        },
-        artclick: {
-            description: 'ArtClick is my personnal url shortener',
-            progress: '100%',
-            url: 'https://artdanj.to/'
-        },
-        artcloud: {
-            description: 'ArtCloud is my personnal instance managment system',
-            progress: '10%',
-            url: 'https://cloud.arthurdanjou.fr'
-        }
+        architecture: ["microservices", "event-driven", "design system pattern"]
     }
 }
 ```
 ---
-
-## Information about my activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
-
-| Informations                 |   State |
-| ---------------------------: | ------: |
-| :musical_note: Music Playing |  **No** |
-|               :bed: Sleeping |  **No** |
-|        :computer: Developing |  **Yes** |
-|             :books: Learning |  **No** |
-
-###### Curious how this works? : [api.arthurdanjou.fr/source](https://api.arthurdanjou.fr/source)
 
 ## Statistics about my dev activity
 
@@ -177,4 +144,4 @@ Send me mail to: [**me@arthurdanjou.fr**](mailto:me@arthurdanjou.fr)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou)](https://github.com/anuraghazra/github-readme-stats)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###### ⚡README powered by [api.arthurdanjou.fr/](https://api.arthurdanjou.fr)
+###### ⚡README powered by [athena.arthurdanjou.fr/](https://athena.arthurdanjou.fr)
