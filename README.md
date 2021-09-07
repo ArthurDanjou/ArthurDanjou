@@ -21,7 +21,6 @@ const me = {
         "Typescript", 
         "HTML", 
         "CSS", 
-        "GoLang", 
         "Java"
     ],
     ask_me_about: [
@@ -33,13 +32,10 @@ const me = {
         "Software dev"
     ],
     technologies: {
-        web_app: ["VueJs", "NuxtJs", "Sass", "Tailwind"],
+        web_app: ["VueJs 3", "NuxtJs", "Sass", "TailwindCSS", "WindiCSS"],
         desktop_app: ["ElectronJs"],
-        mobile_app:["React Native"],
-        back_end: {
-            typescript: ["AdonisJs"],
-            java: ["Spring"]
-        },
+        mobile_app:["Vue Native"],
+        back_end: ["AdonisJs V5"],
         databases: ["MongoDB", "MariaDB", "Redis"],
         messaging: ["RabbitMq"],
         other: ["Docker", "Git"],
@@ -142,4 +138,4 @@ Send me mail to: [**me@arthurdanjou.fr**](mailto:me@arthurdanjou.fr)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou)](https://github.com/anuraghazra/github-readme-stats)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###### ⚡README powered by [athena.arthurdanjou.fr/](https://athena.arthurdanjou.fr)
+###### ⚡ README powered by [athena.arthurdanjou.fr/](https://athena.arthurdanjou.fr)
