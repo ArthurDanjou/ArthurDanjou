@@ -52,7 +52,7 @@ const me = {
 
 > 🏆 625 Contributions in the Year 2021
  > 
-> 📦 24.6 kB Used in Github's Storage 
+> 📦 25.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -122,7 +122,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2021
+ Last Updated on 17/09/2021
 <!--END_SECTION:waka-->
 
 ## Get In Touch ✨
