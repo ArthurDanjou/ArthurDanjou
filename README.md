@@ -52,7 +52,7 @@ const me = {
 
 > 🏆 641 Contributions in the Year 2021
  > 
-> 📦 25.4 kB Used in GitHub's Storage 
+> 📦 25.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -119,7 +119,7 @@ JavaScript               2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 04/11/2021
+ Last Updated on 05/11/2021
 <!--END_SECTION:waka-->
 
 ## Get In Touch ✨
