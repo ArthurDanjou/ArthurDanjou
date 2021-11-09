@@ -3,7 +3,7 @@
 
 ---
 
-<img alt="DevGif" style="float: right" width="300em" height="300em" src="assets/developer.gif" />
+<img alt="DevGif" align="right" width="300em" height="300em" src="assets/developer.gif" />
 
 ## ⭐ About me 
 
