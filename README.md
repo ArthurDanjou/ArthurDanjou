@@ -26,12 +26,12 @@
 `🌍` [**arthurdanjou.fr**](https://arthurdanjou.fr) <br />
 `🐱` [**@ArthurDanjou**](https://github.com/ArthurDanjou) <br />
 `🐦` [**@ArthurDanj**](https://twitter.com/ArthurDanj) <br />
-`✉️` [**me@arthurdanjou.fr**](mailto:me@arthurdanjou.fr) <br />
+`📧️` [**me@arthurdanjou.fr**](mailto:me@arthurdanjou.fr) <br />
 `🤖` [**Discord**](https://go.arthurdanjou.fr/discord)
 
 ## 🐱 Github Stats 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou)" alt="ArtDanj's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou" alt="ArtDanj's Stats" />
 </p>
 
 ###### ⚡ README powered by [athena.arthurdanjou.fr/](https://athena.arthurdanjou.fr)
