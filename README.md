@@ -1,9 +1,9 @@
 # Hi there, I'm Arthur 🙋‍♂️
 ### A Software Engineer from Paris, France 🇫🇷
 
-<img alt="DevGif" align="right" width="300em" height="300em" src="assets/developer.gif" />
-
 ## ⭐ About me 
+
+<img alt="DevGif" align="right" width="300em" height="300em" src="assets/developer.gif" />
 
 👋 • Software Engineer passionate about networking, scalable infrastructure and cloud
 
