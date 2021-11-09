@@ -11,6 +11,8 @@
 
 🧬 • I create and imagine lots of more or less useful applications to learn new skills
 
+<br />
+<br />
 
 ## 📊 Statistics about my dev activity from [athena.arthurdanjou.fr](https://athena.arthurdanjou.fr)
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
