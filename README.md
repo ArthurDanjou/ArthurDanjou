@@ -18,9 +18,9 @@
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |    **Soon** |    **Soon** |     **Soon** |     **Soon** | 
-| :computer: Commands                         |    **Soon** |    **Soon** |     **Soon** |     **Soon** | 
-| :hammer: Docker Builds                      |    **Soon** |    **Soon** |     **Soon** |     **Soon** | 
+| :hourglass_flowing_sand: Hours Spent Coding |    <!-- daily_hours_start -->**Soon**<!-- daily_hours_end --> |    <!-- weekly_hours_start -->**Soon**<!-- weekly_hours_end --> |     <!-- monthly_hours_start -->**Soon**<!-- monthly_hours_end --> |     <!-- total_hours_start -->**Soon**<!-- total_hours_end --> | 
+| :computer: Commands                         |    <!-- daily_commands_start -->**Soon**<!-- daily_commands_end --> |    <!-- weekly_commands_start -->**Soon**<!-- weekly_commands_end --> |     <!-- monthly_commands_start -->**Soon**<!-- monthly_commands_end --> |    <!-- total_commands_start -->**Soon**<!-- total_commands_end --> | 
+| :hammer: Docker Builds                      |    <!-- daily_builds_start -->**Soon**<!-- daily_builds_end --> |    <!-- weekly_builds_start -->**Soon**<!-- weekly_commands_end --> |     <!-- monthly_builds_start -->**Soon**<!-- monthly_builds_end --> |     <!-- total_builds_start -->**Soon**<!-- total_builds_end --> | 
 <!-- End Table -->
 
 ## ✨ Get In Touch 
