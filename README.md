@@ -20,7 +20,8 @@
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
 | :hourglass_flowing_sand: Hours Spent Coding |  **1.53hrs**  | **5.68hrs**   | **25.3hrs**    | **417.59hrs**   |
 | :computer: Terminal Commands                |  **6**  | **6**   | **6**    | **6**    |
-| :hammer: Docker Builds                      |  **3**  | **3**   | **3**    | **3**    |<!-- End Table -->
+| :hammer: Docker Builds                      |  **3**  | **3**   | **3**    | **3**    |
+<!-- End Table -->
 ###### Curious how this works? : [See the source](https://api.arthurdanjou.fr/source)
 
 ## ✨ Get In Touch 
