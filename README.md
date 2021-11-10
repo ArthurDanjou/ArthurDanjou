@@ -15,7 +15,8 @@
 <br />
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
-<!-- Start Table -->| Title                                       |       Daily |      Weekly |      Monthly |        Total |
+<!-- Start Table -->
+| Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
 | :hourglass_flowing_sand: Hours Spent Coding |  1  | 4   | 16    | 430    |
 | :computer: Terminal Commands                |  0  | 0   | 3    | 3    |
