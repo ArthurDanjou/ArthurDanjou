@@ -15,12 +15,13 @@
 <br />
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
+<!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
 | :hourglass_flowing_sand: Hours Spent Coding |    **Soon** |    **Soon** |     **Soon** |     **Soon** | 
 | :computer: Commands                         |    **Soon** |    **Soon** |     **Soon** |     **Soon** | 
 | :hammer: Docker Builds                      |    **Soon** |    **Soon** |     **Soon** |     **Soon** | 
-
+<!-- End Table -->
 
 ## ✨ Get In Touch 
 `🌍` [**arthurdanjou.fr**](https://arthurdanjou.fr) <br />
