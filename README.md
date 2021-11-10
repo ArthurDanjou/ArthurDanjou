@@ -14,7 +14,7 @@
 <br />
 <br />
 
-## 📊 Statistics about my dev activity from [athena.arthurdanjou.fr](https://athena.arthurdanjou.fr)
+## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
 | :hourglass_flowing_sand: Hours Spent Coding |    **Soon** |    **Soon** |     **Soon** |     **Soon** | 
@@ -34,4 +34,4 @@
 <img src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=dracula&username=arthurdanjou" alt="ArtDanj's Stats" />
 </p>
 
-###### ⚡ README powered by [athena.arthurdanjou.fr/](https://athena.arthurdanjou.fr)
+###### ⚡ README powered by [api.arthurdanjou.fr/](https://api.arthurdanjou.fr)
