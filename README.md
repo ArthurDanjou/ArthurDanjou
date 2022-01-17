@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b273a730178c7d0d6cc784adde82" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b27300c0bba714d6c46e47ab1d07" />
 
-**Blesse-moi** by *Therapie TAXI*  <br/>
+**Trop beau** by *Lomepal*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
