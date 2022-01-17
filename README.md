@@ -27,9 +27,9 @@ Listening from **MacBook Pro de Arthur**
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **5.25hrs**  | **13.91hrs**   | **15.69hrs**    | **440.83hrs**   |
-| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
-| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
+| :hourglass_flowing_sand: Hours Spent Coding |  **5.25hrs**  | **13.91hrs**   | **13.91hrs**    | **13.91hrs**   |
+| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **0**    |
+| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **0**    |
 <!-- End Table -->
 
 ###### Curious how this works? [See the source](https://api.arthurdanjou.fr/source)
