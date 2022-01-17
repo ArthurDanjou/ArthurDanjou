@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2733f12b172c90b9fe9232f38d0" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b27358ba1ea637001f9a15e55a92" />
 
-**La vie qu'on mène** by *Ninho*  <br/>
+**Jour meilleur** by *Orelsan*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
