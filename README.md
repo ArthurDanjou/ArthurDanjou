@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b27392dc99b0795e0b8471780217" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2733f12b172c90b9fe9232f38d0" />
 
-**Démons** by *Angèle, Damso*  <br/>
+**La vie qu'on mène** by *Ninho*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
