@@ -18,9 +18,9 @@
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **6.98hrs**  | **8.00hrs**   | **9.79hrs**    | **434.93hrs**   |
-| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
-| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
+| :hourglass_flowing_sand: Hours Spent Coding |  **0.27hrs**  | **8.93hrs**   | **8.93hrs**    | **8.93hrs**   |
+| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **0**    |
+| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **0**    |
 <!-- End Table -->
 
 ###### Curious how this works? [See the source](https://api.arthurdanjou.fr/source)
