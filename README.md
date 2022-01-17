@@ -1,5 +1,4 @@
-# Hi there, I'm Arthur 🙋‍♂️### A Software Engineer from Paris, France 🇫🇷
-## 🎵 Currently listening to music with Spotify
+# Hi there, I'm Arthur 🙋‍♂️### A Software Engineer from Paris, France 🇫🇷## 🎵 Currently listening to music with Spotify
 
 
 <img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b273df4862f641044c61c4abe602" />
