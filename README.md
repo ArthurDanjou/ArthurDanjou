@@ -17,10 +17,10 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b273059f6fea47f8005042983c88" />
+<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b2734239a6aa89738d8f798168ad" />
 
 
-Rétine by Amir  <br/>
+Pepas by Farruko  <br/>
 Listening from Computer
 <!-- End Song -->
 
