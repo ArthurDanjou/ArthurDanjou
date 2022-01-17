@@ -17,10 +17,10 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b273df4862f641044c61c4abe602" />
+<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b2731f970aeef01913ef50d0088f" />
 
 
-Jefe by Ninho  <br/>
+PRENDS MA MAIN by GIMS, Vitaa  <br/>
 Listening from Computer
 <!-- End Song -->
 
