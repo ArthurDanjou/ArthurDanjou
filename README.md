@@ -18,7 +18,7 @@
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **6.98hrs**  | **8.00hrs**   | **9.79hrs**    | **434.93hrs**   |
+| :hourglass_flowing_sand: Hours Spent Coding |  **2.30hrs**  | **10.96hrs**   | **12.75hrs**    | **437.89hrs**   |
 | :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
 | :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
 <!-- End Table -->
