@@ -17,7 +17,11 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-Currently not listening to anything with Spotify
+<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b2730ec1f3493edc0c888ff2d57c" />
+
+
+Shivers by Ed Sheeran  <br/>
+Listening from Computer
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
