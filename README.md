@@ -1,4 +1,6 @@
-# Hi there, I'm Arthur 🙋‍♂️### A Software Engineer from Paris, France 🇫🇷
+# Hi there, I'm Arthur 🙋‍♂️
+
+### A Software Engineer from Paris, France 🇫🇷
 
 ## ⭐ About me 
 
