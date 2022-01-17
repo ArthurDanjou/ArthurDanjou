@@ -19,11 +19,11 @@
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
 <!-- Start Table -->
-| Title                                       |       Daily |       Weekly |      Monthly |        Total |
-|:--------------------------------------------|------------:|-------------:|-------------:|-------------:|
-| :hourglass_flowing_sand: Hours Spent Coding | **3.92hrs** | **12.57hrs** | **12.57hrs** | **12.57hrs** |
-| :computer: Terminal Commands                |       **0** |        **0** |        **0** |        **0** |
-| :hammer: Docker Builds                      |       **0** |        **0** |        **0** |        **0** |
+| Title                                       |       Daily |      Weekly |      Monthly |        Total |
+| :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
+| :hourglass_flowing_sand: Hours Spent Coding |  **3.92hrs**  | **12.57hrs**   | **12.57hrs**    | **12.57hrs**   |
+| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **0**    |
+| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **0**    |
 <!-- End Table -->
 
 ###### Curious how this works? [See the source](https://api.arthurdanjou.fr/source)
