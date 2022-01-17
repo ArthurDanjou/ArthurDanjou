@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2731d3c099bea279cef25eed748" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2736b1190fbb4f8330529a98ffb" />
 
-Hurricane _by_ Ofenbach, Ella Henderson  <br/>
+Bruxelles je t’aime _by_ Angèle  <br/>
 Listening from *MacBook Pro de Arthur*
 <!-- End Song -->
 
