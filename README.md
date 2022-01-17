@@ -17,10 +17,10 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5" />
+<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b273d24bb6aa36842e45bdd3d1cc" />
 
 
-STAY (with Justin Bieber) by The Kid LAROI, Justin Bieber  <br/>
+Don't Go Yet by Camila Cabello  <br/>
 Listening from Computer
 <!-- End Song -->
 
