@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2736c3966c4dd0eb2273696fe16" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b27392dc99b0795e0b8471780217" />
 
-**A l'ammoniaque** by *PNL*  <br/>
+**Démons** by *Angèle, Damso*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
