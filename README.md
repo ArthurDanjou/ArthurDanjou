@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b273a730178c7d0d6cc784adde82" />
 
-**Woman** by *Doja Cat*  <br/>
+**Blesse-moi** by *Therapie TAXI*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
