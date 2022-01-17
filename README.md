@@ -17,11 +17,7 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b2731f970aeef01913ef50d0088f" />
-
-
-PRENDS MA MAIN by GIMS, Vitaa  <br/>
-Listening from Computer
+Currently not listening to anything with Spotify
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
