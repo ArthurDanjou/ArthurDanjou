@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2736b1190fbb4f8330529a98ffb" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2734e03a288fd79707055759f9c" />
 
-**Bruxelles je t’aime** by *Angèle*  <br/>
+**Bad Habits** by *Ed Sheeran*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
