@@ -17,11 +17,10 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b273d24bb6aa36842e45bdd3d1cc" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b273d24bb6aa36842e45bdd3d1cc" />
 
-
-Don't Go Yet by Camila Cabello  <br/>
-Listening from Computer
+Don't Go Yet _by_ Camila Cabello  <br/>
+Listening from *MacBook Pro de Arthur*
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
