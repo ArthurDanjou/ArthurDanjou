@@ -17,7 +17,10 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-Currently not listening to anything with Spotify
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2736c3966c4dd0eb2273696fe16" />
+
+**A l'ammoniaque** by *PNL*  <br/>
+Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
