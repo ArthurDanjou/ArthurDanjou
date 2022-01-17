@@ -17,10 +17,10 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b2730ec1f3493edc0c888ff2d57c" />
+<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23" />
 
 
-Shivers by Ed Sheeran  <br/>
+Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU  <br/>
 Listening from Computer
 <!-- End Song -->
 
