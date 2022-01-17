@@ -28,9 +28,9 @@ Listening from Computer
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **4.48hrs**  | **13.13hrs**   | **13.13hrs**    | **13.13hrs**   |
-| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **0**    |
-| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **0**    |
+| :hourglass_flowing_sand: Hours Spent Coding |  **4.48hrs**  | **13.13hrs**   | **14.92hrs**    | **440.06hrs**   |
+| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
+| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
 <!-- End Table -->
 
 ###### Curious how this works? [See the source](https://api.arthurdanjou.fr/source)
