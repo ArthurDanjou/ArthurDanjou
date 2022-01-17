@@ -16,6 +16,7 @@
 <br />
 
 <!-- Start Song -->
+Currently not listening to anything with Spotify
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
