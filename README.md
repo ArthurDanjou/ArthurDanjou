@@ -17,7 +17,11 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-Currently not listening to anything with Spotify
+<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b273df4862f641044c61c4abe602" />
+
+
+Mood by Ninho  <br/>
+Listening from Computer
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
