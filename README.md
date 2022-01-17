@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b273d24bb6aa36842e45bdd3d1cc" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b273c94a5cc2c56d5c0e7e2f0bf6" />
 
-Don't Go Yet _by_ Camila Cabello  <br/>
+Respire encore _by_ Clara Luciani  <br/>
 Listening from *MacBook Pro de Arthur*
 <!-- End Song -->
 
