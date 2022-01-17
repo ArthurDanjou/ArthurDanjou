@@ -19,8 +19,8 @@
 <!-- Start Song -->
 <img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2736b1190fbb4f8330529a98ffb" />
 
-Bruxelles je t’aime _by_ Angèle  <br/>
-Listening from *MacBook Pro de Arthur*
+**Bruxelles je t’aime** by *Angèle*  <br/>
+Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
