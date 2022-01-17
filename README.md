@@ -17,10 +17,10 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23" />
+<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b273059f6fea47f8005042983c88" />
 
 
-Cold Heart - PNAU Remix by Elton John, Dua Lipa, PNAU  <br/>
+Rétine by Amir  <br/>
 Listening from Computer
 <!-- End Song -->
 
