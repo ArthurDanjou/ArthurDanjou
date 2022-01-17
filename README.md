@@ -17,10 +17,10 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b273295fa70c3afa74aee5c28877" />
+<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5" />
 
 
-Nos plus belles années by Grand Corps Malade, Kimberose  <br/>
+STAY (with Justin Bieber) by The Kid LAROI, Justin Bieber  <br/>
 Listening from Computer
 <!-- End Song -->
 
