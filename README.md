@@ -17,10 +17,10 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b2734239a6aa89738d8f798168ad" />
+<img alt="Spotify Cover Image" width="100em" height="100em" src="https://i.scdn.co/image/ab67616d0000b273295fa70c3afa74aee5c28877" />
 
 
-Pepas by Farruko  <br/>
+Nos plus belles années by Grand Corps Malade, Kimberose  <br/>
 Listening from Computer
 <!-- End Song -->
 
