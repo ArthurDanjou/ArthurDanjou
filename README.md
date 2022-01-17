@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b273c94a5cc2c56d5c0e7e2f0bf6" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2733c041e53cb5c38b6de03e758" />
 
-Respire encore _by_ Clara Luciani  <br/>
+Take My Breath _by_ The Weeknd  <br/>
 Listening from *MacBook Pro de Arthur*
 <!-- End Song -->
 
