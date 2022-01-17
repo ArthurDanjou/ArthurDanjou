@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2734e03a288fd79707055759f9c" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" />
 
-**Bad Habits** by *Ed Sheeran*  <br/>
+**Woman** by *Doja Cat*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
