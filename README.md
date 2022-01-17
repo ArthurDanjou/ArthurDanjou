@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b27300c0bba714d6c46e47ab1d07" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b2736c3966c4dd0eb2273696fe16" />
 
-**Beau la folie** by *Lomepal*  <br/>
+**A l'ammoniaque** by *PNL*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
