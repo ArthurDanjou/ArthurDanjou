@@ -22,11 +22,11 @@ Currently not listening to anything with Spotify
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
 <!-- Start Table -->
-| Title                                       |       Daily |       Weekly |      Monthly |         Total |
-|:--------------------------------------------|------------:|-------------:|-------------:|--------------:|
-| :hourglass_flowing_sand: Hours Spent Coding | **0.27hrs** | **14.48hrs** | **16.26hrs** | **441.41hrs** |
-| :computer: Terminal Commands                |       **0** |        **0** |        **0** |         **6** |
-| :hammer: Docker Builds                      |       **0** |        **0** |        **0** |         **3** |
+| Title                                       |       Daily |      Weekly |      Monthly |        Total |
+| :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
+| :hourglass_flowing_sand: Hours Spent Coding |  **0.27hrs**  | **14.48hrs**   | **16.26hrs**    | **441.41hrs**   |
+| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
+| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
 <!-- End Table -->
 
 ###### Curious how this works? [See the source](https://api.arthurdanjou.fr/source)
