@@ -17,10 +17,7 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b27361d7d7dc1cec3382e6ef1fb3" />
-
-**Yeux disent** by *Lomepal*  <br/>
-Listening from **MacBook Pro de Arthur**
+Currently not listening to anything with Spotify
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
