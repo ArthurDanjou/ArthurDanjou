@@ -4,7 +4,7 @@
 
 ## ⭐ About me 
 
-<img alt="DevGif" align="right" width="300em" height="300em" src="assets/developer.gif" />
+<img alt="DevGif" align="right" width="150em" height="150em" src="assets/developer.gif" />
 
 👋 • Software Engineer passionate about networking, scalable infrastructure and cloud
 
@@ -12,9 +12,6 @@
 
 🧬 • I create and imagine lots of more or less useful applications to learn new skills
 
-<br />
-<br />
-<br />
 <br />
 <br />
 
