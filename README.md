@@ -17,9 +17,9 @@
 
 ## 🎵 Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b27358ba1ea637001f9a15e55a92" />
+<img alt="Spotify Cover Image" width="75em" height="75em" src="https://i.scdn.co/image/ab67616d0000b27361d7d7dc1cec3382e6ef1fb3" />
 
-**Jour meilleur** by *Orelsan*  <br/>
+**Yeux disent** by *Lomepal*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
