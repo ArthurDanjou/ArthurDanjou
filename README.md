@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27361d7d7dc1cec3382e6ef1fb3" /> **Yeux disent** - *Lomepal*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" /> **Balance ton quoi** - *Angèle*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
