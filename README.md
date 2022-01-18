@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f4210dda1f902d2cc755ca58" /> **Message In A Bottle - Colorblast Version** - *Colorblast*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27370befece7c6327d209119f6d" /> **Tornade** - *Louane*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
