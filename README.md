@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27311ffba6e6a12185d18b8b67f" /> **Rétine** - *Amir*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273968633716272e46f53ccc368" /> **J'y vais** - *Patrick Fiori, Florent Pagny*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
