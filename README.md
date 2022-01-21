@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738544aa5ba43894b7103ec757" /> **Acapulco** - *Jason Derulo*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ef12a4e8cdb297684e197cc4" /> **Love Again** - *Dua Lipa*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
