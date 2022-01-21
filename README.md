@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27328eec1bed4fe754299ea1e96" /> **Love Tonight - David Guetta Remix Edit** - *Shouse, David Guetta*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738544aa5ba43894b7103ec757" /> **Acapulco** - *Jason Derulo*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
