@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e" /> **The Motto** - *Tiësto, Ava Max*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d24bb6aa36842e45bdd3d1cc" /> **Don't Go Yet** - *Camila Cabello*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
