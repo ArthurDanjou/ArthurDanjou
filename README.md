@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a730178c7d0d6cc784adde82" /> **Eté 90** - *Therapie TAXI*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739ec35219c30195371badb222" /> **Loi de la calle** - *Le classico organisé, Lacrim, Alonzo, Mister You, Jul, Niro, Kofs, Le Rat Luciano, UZI*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
