@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273545c930fa9fada545b01f71d" /> **Mon Amour - Remix** - *zzoilo, Aitana*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" /> **Easy On Me** - *Adele*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
