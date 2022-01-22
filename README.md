@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e" /> **The Motto** - *Tiësto, Ava Max*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d9525f27b0a9e25b1fa21230" /> **Desesperados** - *Rauw Alejandro, Chencho Corleone*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
