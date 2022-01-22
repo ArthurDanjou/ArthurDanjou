@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d9525f27b0a9e25b1fa21230" /> **Desesperados** - *Rauw Alejandro, Chencho Corleone*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a" /> **traitor** - *Olivia Rodrigo*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
