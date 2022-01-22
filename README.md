@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" /> **Beggin'** - *Måneskin*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273aa597e50829169e6994eb403" /> **Enemy (with JID) - from the series Arcane League of Legends** - *Imagine Dragons, JID, Arcane, League of Legends*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
