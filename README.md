@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27384d413b195aac8a69cc6e5c6" /> **Do It To It** - *ACRAZE, Cherish*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e1ac646ed6f25125e2a77229" /> **We Don't Talk About Bruno** - *Carolina Gaitán - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz, Encanto - Cast*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
