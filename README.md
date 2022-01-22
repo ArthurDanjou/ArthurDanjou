@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738e6551a2944764bc8e33a960" /> **STAY (with Justin Bieber)** - *The Kid LAROI, Justin Bieber*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" /> **Blinding Lights** - *The Weeknd*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
