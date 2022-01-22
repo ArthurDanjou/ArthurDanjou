@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be" /> **Levitating (feat. DaBaby)** - *Dua Lipa, DaBaby*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e" /> **The Motto** - *Tiësto, Ava Max*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
