@@ -24,9 +24,9 @@ Currently not listening to anything with Spotify
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **0.45hrs**  | **16.05hrs**   | **17.08hrs**    | **17.08hrs**   |
-| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **0**    |
-| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **0**    |
+| :hourglass_flowing_sand: Hours Spent Coding |  **0.49hrs**  | **16.09hrs**   | **18.90hrs**    | **444.05hrs**   |
+| :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
+| :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
 <!-- End Table -->
 
 ###### Curious how this works? [See the source](https://api.arthurdanjou.fr/source)
