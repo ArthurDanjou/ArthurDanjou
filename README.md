@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" /> **MONEY** - *LISA*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e1ac646ed6f25125e2a77229" /> **Surface Pressure** - *Jessica Darrow*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
