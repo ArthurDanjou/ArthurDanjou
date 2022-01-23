@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f1bd89fe6542ac73b8555f73" /> **Pepas** - *Farruko*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a9897f65d1ead1be10a51e3f" /> **Infinity** - *Jaymes Young*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
