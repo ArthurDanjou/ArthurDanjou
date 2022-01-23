@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c7c579c9b540f56584909d28" /> **Light Switch** - *Charlie Puth*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a" /> **good 4 u** - *Olivia Rodrigo*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
