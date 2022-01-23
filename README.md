@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" /> **Need to Know** - *Doja Cat*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" /> **MONTERO (Call Me By Your Name)** - *Lil Nas X*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
