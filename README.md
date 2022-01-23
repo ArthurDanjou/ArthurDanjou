@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e" /> **The Motto** - *Tiësto, Ava Max*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321" /> **Need to Know** - *Doja Cat*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
