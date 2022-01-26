@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f3e8990652f0a336ae55f26a" /> **Toto et Ninetta** - *Jul*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739ec35219c30195371badb222" /> **Cœur de pirate** - *Le classico organisé, Elams, Naza, Tayc, Jul, Vegedream, Naps, Lynda, SAF, THABITI*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
