@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b8938d68052bc7fadd640923" /> **Dynamite** - *Sean Paul, Sia*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273469407300636945a5eb2d9ed" /> **Shivers** - *Ed Sheeran*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
