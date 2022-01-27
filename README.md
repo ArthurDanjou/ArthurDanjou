@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273123631afea1a0c8ed83229c8" /> **LA FAMA (with The Weeknd)** - *ROSALÍA, The Weeknd*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fd13588a958fbd23d5524e1b" /> **Thunder** - *Gabry Ponte, LUM!X, Prezioso*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
