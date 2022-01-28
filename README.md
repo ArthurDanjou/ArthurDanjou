@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734bd1695f471be0182bea83d2" /> **Lipstick** - *Kungs*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f60a9b7e2abafc38da31f575" /> **My Universe** - *Coldplay, BTS*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
