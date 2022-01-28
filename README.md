@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273336a313426983a122d8ed70c" /> **Santé** - *Stromae*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273dc94a17624484c674252385b" /> **GHOST TOWN** - *Benson Boone*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
