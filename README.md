@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273623c21f1d36873a5f059c092" /> **Time Time** - *Trei Degete, Squeezie, Myd, KronoMuzik*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a97f3fad25245a1453b1b3b2" /> **Tell It To My Heart** - *MEDUZA, Hozier*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
