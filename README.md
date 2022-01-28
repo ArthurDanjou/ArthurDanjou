@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ba26678947112dff3c3158bf" /> **INDUSTRY BABY (feat. Jack Harlow)** - *Lil Nas X, Jack Harlow*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23" /> **Cold Heart - PNAU Remix** - *Elton John, Dua Lipa, PNAU*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
