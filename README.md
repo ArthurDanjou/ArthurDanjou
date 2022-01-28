@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b" /> **Where Are You Now** - *Lost Frequencies, Calum Scott*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738e6551a2944764bc8e33a960" /> **STAY (with Justin Bieber)** - *The Kid LAROI, Justin Bieber*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
