@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" /> **MONTERO (Call Me By Your Name)** - *Lil Nas X*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273005ee342f4eef2cc6e8436ab" /> **DÁKITI** - *Bad Bunny, Jhay Cortez*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
