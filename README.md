@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" /> **Oh My God** - *Adele*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731a4f8a1202787da7e1c4de57" /> **1+1 (feat. Amir) - Banx & Ranx Remix** - *Sia, Amir, Banx & Ranx*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
