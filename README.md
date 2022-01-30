@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a887958dad6d4a2b95766497" /> **A ma table - Original version** - *DJ Vielo, DJ Anilson, Le D*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739879c5ad3be7b14dbc0d8fea" /> **Pic et pic, alcool et drame** - *Jul*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
