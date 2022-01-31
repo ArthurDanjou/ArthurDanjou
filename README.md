@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732639fc3650a442984ac2d062" /> **Nova** - *Fredz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27399c5a6385faf28e6dfc7cd95" /> **Amour censure** - *Hoshi*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
