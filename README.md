@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273df4862f641044c61c4abe602" /> **VVS** - *Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730953cc99ec9e509fa92a6de8" /> **Show Me Love** - *Jok'air, Waxx*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
