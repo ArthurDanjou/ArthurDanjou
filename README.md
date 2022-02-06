@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273277127a7e8921eeccf4a6685" /> **Possédé** - *Djadja & Dinaz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736fa31c0d2f8e94cc9e4d09ae" /> **ONLY YOU (feat. Dhurata Dora)** - *GIMS, Dhurata Dora*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
