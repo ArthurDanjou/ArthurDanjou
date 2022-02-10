@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d6e6c8560ad6eedd4194fa93" /> **Ghenda** - *Dj Leska, Bolémvn, Vegedream*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e2a04a18cce54a943d588f7e" /> **Mapessa (feat. Tiakola)** - *Leto, Tiakola*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
