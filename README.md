@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f588cd5248d6bea87201ee88" /> **Le maire** - *Maes, OBOY*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736980f526f49472de409210b7" /> **Journée** - *Niska, Tiakola*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
