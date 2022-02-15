@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739bbbf5ca66b29b25236379cb" /> **SPECIAL (feat. Nekfeu & Fousheé)** - *Laylow, Nekfeu, Fousheé*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d9c23b8b98ad4f9bf05802a3" /> **Le cœur des filles** - *A2h*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
