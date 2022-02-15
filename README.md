@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27391453ba012165b741a8342f6" /> **Dis moi comment.** - *Tayc*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27395e2527023061d088736ed3d" /> **Loi de la calle** - *Le classico organisé, Lacrim, Alonzo, Mister You, Jul, Niro, Kofs, Le Rat Luciano, UZI*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
