@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fd5d145e815d352e195c02e7" /> **Ginseng Strip 2002** - *Yung Lean*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27378f71c0d2fe34592a3c18f80" /> **Sweater Weather** - *The Neighbourhood*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
