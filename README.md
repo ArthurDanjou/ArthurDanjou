@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27377063849de73aeb14e7c5b7e" /> **L'Orage** - *Tsew The Kid, Jok'air*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a91a188ad0b27eba9b55b38c" /> **Las vegas** - *Jok'air*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
