@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27340c172c54696d8e6028c019f" /> **Brividi** - *Mahmood, BLANCO*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f7916a35ffdd6cb90bbbdf2f" /> **she's all i wanna be** - *Tate McRae*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
