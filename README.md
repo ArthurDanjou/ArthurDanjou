@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f7916a35ffdd6cb90bbbdf2f" /> **she's all i wanna be** - *Tate McRae*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fd5d145e815d352e195c02e7" /> **Ginseng Strip 2002** - *Yung Lean*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
