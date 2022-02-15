@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27378f71c0d2fe34592a3c18f80" /> **Sweater Weather** - *The Neighbourhood*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739214ff0109a0e062f8a6cf0f" /> **I Love You So** - *The Walters*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
