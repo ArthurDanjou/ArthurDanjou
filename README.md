@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d038ad81ca0a422e45caff99" /> **Joli bébé** - *Naza, Niska*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737fca1ecbe437ac653091eb55" /> **C'est toi** - *Joé Dwèt Filé*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
