@@ -17,7 +17,8 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-Currently not listening to anything with Spotify
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735dbfd7d2f9d5d2797c693e04" /> **Avec Toi** - *OBOY*  <br/>
+Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
