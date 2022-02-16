@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bee09be2b9c66e75411b70fa" /> **Louis V** - *OBOY*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273299eab3452ee52b4616db9d4" /> **Le classico organisé** - *Koba LaD, PLK, Gazo, SCH, Jul, Naps, Guy2bezbar, Kofs, Soso Maness, Le classico organisé*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
