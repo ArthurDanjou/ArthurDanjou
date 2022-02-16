@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" /> **INDUSTRY BABY (feat. Jack Harlow)** - *Lil Nas X, Jack Harlow*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" /> **My Universe** - *Coldplay, BTS*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
