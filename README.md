@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d06c36953d960e241f1522f8" /> **Hit Sale (feat. Roméo Elvis)** - *Therapie TAXI, Roméo Elvis*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273118b6f837d01291bf5f6a005" /> **Dieu merci** - *Dadju, Tiakola*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
