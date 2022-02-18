@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a4aab459c0f6e6a284a3705b" /> **Tourner la tête** - *Hornet La Frappe*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273051518ea672fb2f336192d41" /> **Tu le sais** - *Kalash, Gazo*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
