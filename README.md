@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735cbb5fba22a92557b60f8e22" /> **TDB** - *OBOY*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f588cd5248d6bea87201ee88" /> **Mardi gras** - *Maes, Tiakola, Zed*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
