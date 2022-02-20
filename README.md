@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d8ab9910c70f649f1498ff61" /> **N. J Respect R** - *Damso*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738d6d1c6a5a389f1a08ad7f33" /> **Muerte** - *Landy, Dadju*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
