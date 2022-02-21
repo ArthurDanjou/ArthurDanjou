@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d36a96fc094b5c0c89367ca0" /> **Leo Messi** - *Booba*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fae2b43499f027c7fe43474f" /> **Vie de star (feat. Ninho)** - *Leto, Ninho*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
