@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273252b0a7bf64ecc44a2a61821" /> **Aime-moi demain (feat. Gradur)** - *The Shin Sekaï, Gradur*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ab779f2adb1007f0321ecab8" /> **Calme** - *PLK*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
