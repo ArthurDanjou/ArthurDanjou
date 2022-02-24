@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737a532e95a476d428b5431fde" /> **Afro Trap Pt. 7 (La puissance)** - *MHD*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730f1a988ea51439be01f16f5d" /> **J'fais mes affaires** - *Djadja & Dinaz*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
