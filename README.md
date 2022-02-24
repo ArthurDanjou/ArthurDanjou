@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27397644a8a0e18cda742fcbf5f" /> **T-Rain** - *Niska*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273932918beeb98362b099ad866" /> **Afro Trap Part. 11 (King Kong)** - *MHD*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
