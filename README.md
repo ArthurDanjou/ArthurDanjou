@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cffb5ed924f22993a92311b5" /> **Josky** - *Kalash Criminel*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273217dc691a5947357544b1171" /> **Millions d'euros** - *Landy, Niska*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
