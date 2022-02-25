@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a16bc4ee16ec5ae6787dede5" /> **Placebo** - *Dinos*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e73d238de70e8cecd93458bb" /> **Pololo** - *MHD, Tiakola*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
