@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e3762027f2f6ff4c9dd0e9bc" /> **Elles ont trop joué avec mon coeur** - *Jok'air*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27333cf9ea551db30dce9ae2f90" /> **À cœur ouvert** - *Djadja & Dinaz*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
