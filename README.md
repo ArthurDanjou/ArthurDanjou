@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736d87200c168c8876c7c2ebd8" /> **Du mal à te dire** - *Dinos, Damso*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273217dc691a5947357544b1171" /> **Enfants terribles** - *Landy, Ninho*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
