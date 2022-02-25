@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737a1471800eb458ea1bfb9109" /> **Seuls** - *Djadja & Dinaz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737ed075d39853d687f09a43d9" /> **Shooter** - *Kaaris, Kalash Criminel*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
