@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273655cda21d44dd5b366b6c558" /> **La Costa** - *Mister You*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734c785b729d93f13c29500df9" /> **Zehma** - *GLK*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
