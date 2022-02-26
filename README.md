@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735b4bcf218c121c159f27e96d" /> **Manège** - *Djadja & Dinaz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735dbfd7d2f9d5d2797c693e04" /> **Avec Toi** - *OBOY*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
