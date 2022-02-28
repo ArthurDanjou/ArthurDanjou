@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b57d9a7441b74f1c8debe51e" /> **Un Poco** - *Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fb231919866fc73ec12d145f" /> **Un peu de haine** - *PLK*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
