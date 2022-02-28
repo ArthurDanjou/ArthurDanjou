@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273655cda21d44dd5b366b6c558" /> **La fragrance** - *Mister You, S.Pri Noir*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273699da7fe16923709d6adaf1d" /> **Σ. MOROSE** - *Damso*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
