@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273629e4fab9fb813a750339124" /> **Mozart Capitaine Jackson (Episode 2)** - *Leto*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a59a3a5ba1bbf0f57729c05a" /> **Big Meech** - *Leto, Gazo*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
