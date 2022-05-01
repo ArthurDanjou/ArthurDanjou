@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734c36c24fbfc1f46ed5a1fe5a" /> **Tes parents (feat. Ninho)** - *Leto, Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e3b3f531931855e419389020" /> **Doudou** - *Koba LaD, Naps*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
