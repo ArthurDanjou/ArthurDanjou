@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734e2eba88eda4ded5e590ba6b" /> **philly flingo** - *Alpha Wann*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731e546007515b02884d72595f" /> **CASCADE - Remix** - *Alpha Wann*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
