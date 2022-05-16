@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946" /> **Don't Start Now** - *Dua Lipa*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273214b60a753733ca0792cf47f" /> **Fever** - *Dua Lipa, Angèle*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
