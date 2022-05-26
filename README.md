@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735f3a6c3c7d5a5fb30565fba7" /> **LOPSA STORY** - *1PLIKÉ140*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736eb2b460b6d09b48603bd333" /> **DANS LE WAY** - *Benjamin Epps*  <br/>
 Listening from **iPhone d’Arthur**
 <!-- End Song -->
 
