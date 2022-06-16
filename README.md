@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27384828b32b1041d272c6a31b3" /> **La rose & l'épine** - *Lartiste*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738207367ec9a937c6be8e1431" /> **Dreamin'** - *Youssoupha, Indila*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
