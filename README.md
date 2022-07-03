@@ -24,7 +24,7 @@ Currently not listening to anything with Spotify
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **2.04hrs**  | **10.97hrs**   | **12.34hrs**    | **481.59hrs**   |
+| :hourglass_flowing_sand: Hours Spent Coding |  **2.56hrs**  | **11.49hrs**   | **12.85hrs**    | **482.11hrs**   |
 | :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
 | :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
 <!-- End Table -->
