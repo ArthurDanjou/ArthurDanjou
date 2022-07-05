@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736069fa7ed17b82e3f1c881b8" /> **Kalash** - *Booba, Kaaris*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d66149c553c12eaa4d4d8827" /> **Sale sonorité** - *Kalash Criminel*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
