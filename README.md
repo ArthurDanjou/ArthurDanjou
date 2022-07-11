@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273353839ddf326465ad595af4a" /> **Havana** - *Hayce Lemsi*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736b9c2d8cdf5075230aa0b275" /> **Gars du 7** - *Bolémvn*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
