@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d17e6fd83fb2e380a8e40b1d" /> **Grand Paris** - *Médine, Lartiste, Lino, Sofiane, Alivor, Seth Gueko, Ninho, Youssoupha*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e135de51946110d6608bf18b" /> **Mayday (feat. Ninho)** - *SCH, Ninho*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
