@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a57b45c82cd263850ccf56cf" /> **À ce qu’il paraît** - *Fredz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273646c6c8c3f185d9f7e9622a8" /> **Baila Conmigo (feat. Kelly Ruiz)** - *Dayvi, Victor Cardenas, Kelly Ruíz*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
