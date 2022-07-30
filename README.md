@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cb1cb32c8f240b91f40b110a" /> **92i veyron** - *Booba*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27316664291bfe68fe3915161ef" /> **Reuf - Version Five** - *Nekfeu*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
