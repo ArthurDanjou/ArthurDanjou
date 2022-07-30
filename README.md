@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735dbfd7d2f9d5d2797c693e04" /> **Avec Toi** - *OBOY*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737e5152f917dc4e0d8f24a1b4" /> **Skurt Cobain** - *Sneazzy, Nekfeu*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
