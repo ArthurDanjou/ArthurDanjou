@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e3762027f2f6ff4c9dd0e9bc" /> **Elles ont trop joué avec mon coeur** - *Jok'air*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730cf60b2261b22cce32089556" /> **Les princes (feat. Nekfeu)** - *MZ, Nekfeu*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
