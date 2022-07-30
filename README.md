@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735f3a6c3c7d5a5fb30565fba7" /> **LOPSA STORY** - *1PLIKÉ140*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273277127a7e8921eeccf4a6685" /> **Possédé** - *Djadja & Dinaz*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
