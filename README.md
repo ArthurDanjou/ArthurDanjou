@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273df4862f641044c61c4abe602" /> **VVS** - *Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f2bc930f4eaa58d1c5618c49" /> **AVM** - *YG Pablo*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
