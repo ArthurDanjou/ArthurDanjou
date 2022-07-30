@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735fbd85310f6c490f9402359e" /> **À la fête** - *UZI*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bd90c15a3a638df745fd2285" /> **On se reverra plus (feat. Gazo)** - *DA Uzi, Gazo*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
