@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739263cda13741e879da30b769" /> **Filtré** - *Timal, Gazo*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b57d9a7441b74f1c8debe51e" /> **Fendi** - *Ninho*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
