@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e22cc615dc156dfe5897673e" /> **La Llama del Amor** - *Omar Montes, Jairo deRemache*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732655c8813ee360291cdc763d" /> **Tigini (Remix)** - *Rvfv, Kikimoteleba*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
