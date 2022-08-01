@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72" /> **Tarot** - *Bad Bunny, Jhay Cortez*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e22cc615dc156dfe5897673e" /> **La Llama del Amor** - *Omar Montes, Jairo deRemache*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
