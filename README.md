@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ce70170f863e670be6a3874c" /> **Mi Amor (feat. Noizy & Jugglerz)** - *Dhurata Dora, Noizy, Jugglerz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27308bfa8c784f56761ab5026ff" /> **C'Est Ma Life** - *DJ Abdel, Soprano*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
