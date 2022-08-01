@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27309e6f1d4f647f9209f47b70f" /> **GIVENCHY** - *Duki*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ab7954fdffcef5bb8e052f28" /> **Villano Antillano: Bzrp Music Sessions, Vol. 51** - *Bizarrap, Villano Antillano*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
