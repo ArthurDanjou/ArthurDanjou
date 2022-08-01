@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273995239a0e35a898037ec4b29" /> **Money For Nothing** - *Dire Straits*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f0f4be701e32065be81377a2" /> **Coraçao** - *Jerry Ropero, Denis the Menace, Sabor, Jaqueline*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
