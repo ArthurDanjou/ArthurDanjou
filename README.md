@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2733ba92b218fbc97d244235a21" /> **She Don't Give a Fo** - *Duki, KHEA*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730da5b28d9dfe894de5da63ff" /> **mariposas** - *sangiovanni, Aitana*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
