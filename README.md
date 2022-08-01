@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273dab42d23280a23a21cc89cae" /> **Quevedo: Bzrp Music Sessions, Vol. 52** - *Bizarrap, Quevedo*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c9f744b0d62da795bc21d04a" /> **La Bachata** - *Manuel Turizo*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
