@@ -25,7 +25,7 @@ Listening from **iPhone**
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **0.10hrs**  | **1.15hrs**   | **16.74hrs**    | **503.18hrs**   |
+| :hourglass_flowing_sand: Hours Spent Coding |  **0.00hrs**  | **13.00hrs**   | **28.58hrs**    | **515.03hrs**   |
 | :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
 | :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
 <!-- End Table -->
