@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" /> **Treasure** - *Bruno Mars*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" /> **Gangnam Style (강남스타일)** - *PSY*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
