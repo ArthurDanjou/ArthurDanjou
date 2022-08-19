@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739a1f1215b30e91bbf842a1e6" /> **Aurélie** - *Colonel Reyel*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732c0d48656632f2a2a9c41b23" /> **Fous ta cagoule - Radio Edit** - *Fatal Bazooka*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
