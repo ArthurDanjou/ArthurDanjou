@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737fa31fa63971bcce4902a82e" /> **Ma beauté - Pilule violette** - *GIMS*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735b5dcd3c13ae6dea8785883e" /> **I Will Survive (Lalala), Original Radio Edit** - *Hermes House Band*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
