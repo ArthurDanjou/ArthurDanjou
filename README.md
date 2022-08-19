@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ba1205217b4a6eb992e79a56" /> **Tarte à la myrtille** - *Le Wanski*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732ddee8131b5843b1d328d78c" /> **Alors la zone** - *Jul*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
