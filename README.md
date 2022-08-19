@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732c0d48656632f2a2a9c41b23" /> **Fous ta cagoule - Radio Edit** - *Fatal Bazooka*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c34c0bdf6eeeb7ef945f962c" /> **La vie du bon côté (feat. Lorelei. B)** - *Keen' V, Lorelei B*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
