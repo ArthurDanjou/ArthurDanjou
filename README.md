@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273da8cc38578cf8a3fbe4ac540" /> **No Diggity** - *HÄWK, BEYGE*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273468eb5bc94c52a55c8baf245" /> **Eu Quero Tchu, Eu Quero Tcha** - *Flavel & Neto*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
