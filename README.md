@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273726abca207567d5e41cb9667" /> **One Dance** - *Drake, WizKid, Kyla*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273da8cc38578cf8a3fbe4ac540" /> **No Diggity** - *HÄWK, BEYGE*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
