@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730a3418c7d155f8974eee9c7f" /> **RENCONTRE** - *Disiz, Damso*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a14da65fe65a600a4dd9d156" /> **Ça canarde** - *Bolémvn, Guy2bezbar*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
