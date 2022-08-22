@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ffaaa8781a98f21af5817119" /> **Aimer** - *PLK*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27395e2527023061d088736ed3d" /> **Le classico organisé** - *Le classico organisé, Koba LaD, Jul, PLK, SCH, Gazo, Soso Maness, Kofs, Guy2bezbar, Naps*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
