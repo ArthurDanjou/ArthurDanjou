@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d459374a978da728adea3f38" /> **GIRL LIKE ME** - *Black Eyed Peas, Shakira*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273055add97077a1e8cb98b173e" /> **Mon poto - Extrait de la BO de « En Passant Pécho »** - *Kore, Ninho*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
