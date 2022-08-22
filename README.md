@@ -25,7 +25,7 @@ Listening from **MacBook Pro de Arthur**
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **4.52hrs**  | **19.37hrs**   | **29.06hrs**    | **522.55hrs**   |
+| :hourglass_flowing_sand: Hours Spent Coding |  **0.00hrs**  | **22.03hrs**   | **31.72hrs**    | **525.21hrs**   |
 | :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
 | :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
 <!-- End Table -->
