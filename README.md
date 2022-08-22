@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730a3418c7d155f8974eee9c7f" /> **RENCONTRE** - *Disiz, Damso*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273317056b8956bc3df00542604" /> **Juste pour voir** - *S.Pri Noir, Nekfeu*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
