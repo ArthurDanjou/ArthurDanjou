@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c9dac440212e652f62129e1a" /> **Galatée** - *Nekfeu*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d278f027cc5d4ae070b01e30" /> **Romeo Y Julieta** - *Lola Indigo, Rvfv*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
