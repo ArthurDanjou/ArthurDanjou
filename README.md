@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273eaf2d94af807875f1dc20fee" /> **Il le fallait** - *Moha La Squale*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d8ab9910c70f649f1498ff61" /> **Δ. Dieu ne ment jamais** - *Damso*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
