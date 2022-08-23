@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a76bdd8371767230c71905e7" /> **MAUVAIS 2X (feat. Ninho)** - *Gazo, Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a16cbb24a5be03735e1b3194" /> **Moi, je prouve.** - *Tayc, Barack Adama*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
