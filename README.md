@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737a898157c5dc24b15f925b12" /> **Habitué** - *Dosseh*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a14da65fe65a600a4dd9d156" /> **Ça canarde** - *Bolémvn, Guy2bezbar*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
