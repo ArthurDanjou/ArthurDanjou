@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27303bb9e103697ae15187f16d8" /> **Grand bain** - *Dadju, Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ba3624eae9c6d117a810b5b8" /> **La Maxance** - *Naps*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
