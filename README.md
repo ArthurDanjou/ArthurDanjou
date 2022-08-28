@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273671ec398ad35d1dbdcd02fda" /> **Tuba Life** - *Niska, Booba*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273de03bfc2991fd5bcfde65ba3" /> **Ride** - *Twenty One Pilots*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
