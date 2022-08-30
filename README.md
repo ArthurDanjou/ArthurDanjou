@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cf75796b339d285da53d4545" /> **De l'autre côté (feat. Nekfeu)** - *Ninho, Nekfeu*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273eaf2d94af807875f1dc20fee" /> **Il le fallait** - *Moha La Squale*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
