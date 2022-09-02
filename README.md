@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736bde7eae14ec9c7bdd778338" /> **93% [Tijuana]** - *GLK, Landy, DA Uzi, Hornet La Frappe*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c231365501881d64fe34476a" /> **Jamais** - *Mister V, PLK*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
