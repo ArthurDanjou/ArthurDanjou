@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b1d1f74c8d833e4b571056d9" /> **Gasolina (feat. Ninho)** - *Hornet La Frappe, Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273317056b8956bc3df00542604" /> **Juste pour voir** - *S.Pri Noir, Nekfeu*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
