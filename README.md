@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273317056b8956bc3df00542604" /> **Juste pour voir** - *S.Pri Noir, Nekfeu*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273eaf2d94af807875f1dc20fee" /> **Bendero** - *Moha La Squale*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
