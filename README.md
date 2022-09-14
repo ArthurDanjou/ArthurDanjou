@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ad82c03f04f0348543a95100" /> **Mobali** - *Siboy, Benash, Damso*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739297f238f237431d56c67460" /> **Dale x Love Therapy (feat. Aya Nakamura)** - *Hamza, Aya Nakamura*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
