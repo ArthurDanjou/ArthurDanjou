@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f78c98bbf2b3c9e2a764203e" /> **Redbone** - *Childish Gambino*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cf75796b339d285da53d4545" /> **De l'autre côté (feat. Nekfeu)** - *Ninho, Nekfeu*  <br/>
 Listening from **MacBook Pro de Arthur**
 <!-- End Song -->
 
