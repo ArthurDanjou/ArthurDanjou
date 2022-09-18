@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731b51f809c31f0d98f67c0b7d" /> **Another Love** - *Tom Odell*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a" /> **Die For You** - *The Weeknd*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
