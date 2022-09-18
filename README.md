@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739b7455661a89c3cdba165ec6" /> **Assurance (feat. Yellowstraps)** - *Le Motel, Roméo Elvis, YellowStraps*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736203ee735571f8706e47ce1a" /> **Pogo** - *Roméo Elvis, Le Motel*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
