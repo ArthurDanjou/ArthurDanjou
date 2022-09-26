@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730c122744c6e43e08e84b896a" /> **Missed** - *Mikebøi*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736d204fc01f3df8c1ac3e332b" /> **Hijo De La Noche** - *Duki, C.R.O, YSY A*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
