@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273dfcbe5bdc2679e14090dad39" /> **Colocao** - *Nicki Nicole*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fe4f586a7149a272fe79e048" /> **Murda** - *Snavs, Fabian Mazur*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
