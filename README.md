@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b214169f8b6ad6f33ea781ba" /> **Welcome to the Party (with Lil Pump, Juicy J, Famous Dex, & French Montana) - Remix** - *Diplo, Juicy J, Famous Dex, Lil Pump, French Montana*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b968977cef787030b7b74794" /> **BlackMold** - *BONES*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
