@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731918f9893ae98ff775e5131b" /> **TOUT VA BIEN (feat. Ninho & Naps)** - *Alonzo, Ninho, Naps*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f99fb4c3e3812bb4ea81f1f7" /> **Soleil** - *Roméo Elvis*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
