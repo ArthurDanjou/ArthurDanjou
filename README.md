@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a10bc8fbad32e7b61c255013" /> **Ready** - *WiDE AWAKE*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273063fc4921a6d7fbac76e9bba" /> **Remember the Name (feat. Styles of Beyond)** - *Fort Minor, Styles Of Beyond*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
