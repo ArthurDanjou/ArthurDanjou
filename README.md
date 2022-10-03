@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732f0d0b487eab3cd2b5473f11" /> **Who Would've Thought** - *CryJaxx, Reeck, Drama B*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734ce0bf5be9b21df7d7b060c9" /> **Tokyo** - *Skeler*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
