@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731b949080b7bbd8500ebd0f25" /> **Good for You** - *Arman Cekin, Glaceo*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736fd4a2a0eb153b18660b86cc" /> **Rata Tan Tan** - *Ak4:20*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
