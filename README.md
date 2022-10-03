@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273279537cc56fa8cd2d35167e2" /> **Soundclash** - *Flosstradamus, TroyBoi*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732fbb3b18cd589fbd526b41de" /> **Runnin (feat. A$AP Rocky & Jacob Banks)** - *Ludwig Goransson, A$AP Rocky, Jacob Banks*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
