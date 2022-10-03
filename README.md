@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" /> **Lose Yourself - From "8 Mile" Soundtrack** - *Eminem*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273279537cc56fa8cd2d35167e2" /> **Soundclash** - *Flosstradamus, TroyBoi*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
