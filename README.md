@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ce3278a114fe6877b85372e3" /> **Deira City Centre** - *Night Lovell*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a10bc8fbad32e7b61c255013" /> **Ready** - *WiDE AWAKE*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
