@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273129d0cf810e2ad479d26edf9" /> **All the Things She Said (Barnacle Boi Flip)** - *barnacle boi, t.A.T.u.*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737a3203f5ad3b119b1e7da834" /> **Crossfire** - *Stephen*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
