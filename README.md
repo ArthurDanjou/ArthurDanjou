@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273eaea3de0127f571b2e40f537" /> **Stay And Decay** - *Unlike Pluto*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273022e592b439fedb08527d073" /> **Switch** - *DVBBS, MOTi*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
