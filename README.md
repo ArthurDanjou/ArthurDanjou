@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739bbbf5ca66b29b25236379cb" /> **SPECIAL (feat. Nekfeu & Fousheé)** - *Laylow, Nekfeu, Fousheé*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ca742e56e993798713f725a3" /> **Bienvenue à La Banane** - *Moha La Squale*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
