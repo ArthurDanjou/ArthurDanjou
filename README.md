@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d459374a978da728adea3f38" /> **GIRL LIKE ME** - *Black Eyed Peas, Shakira*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2733f12b172c90b9fe9232f38d0" /> **Goutte d'eau** - *Ninho*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
