@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ce3278a114fe6877b85372e3" /> **The Renegade Never Dies** - *Night Lovell*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730cae2694c249e2e5a991d643" /> **Trndsttr (feat. M. Maggie) - Lucian Remix** - *Black Coast, M. Maggie, Lucian*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
