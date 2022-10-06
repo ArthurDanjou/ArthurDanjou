@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27398efeedcd351f84f22c8ee32" /> **2000 Rounds** - *Pouya, Ghostemane*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273883c9f16e98d3aaba93fef97" /> **Last Resort** - *Papa Roach*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
