@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732cd6b67be46f4bb11bf5dc4d" /> **6.3** - *Naps, Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736e696b2e6ba896f83e7cc1c8" /> **Absence** - *Jordan Comolli, Hilton*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
