@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730dbfb452892a2ce4ecac5445" /> **Battle Royale feat. Panther - VIP Mix** - *Apashe, Panther*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738ae9758d460ff7cb76fdf817" /> **Bass Beat Kebumen Style** - *Muji RMX*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
