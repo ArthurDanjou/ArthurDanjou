@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4" /> **Everyday Normal Guy 2** - *Jon Lajoie*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e7bf1c9cb0d5d7c08e2fed34" /> **Animal Style** - *Jackal*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
