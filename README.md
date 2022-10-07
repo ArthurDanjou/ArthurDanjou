@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bef1bc01d2b814802c96fa3b" /> **Freedom** - *ÆSTRAL*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fbb5215d753b10d6ab619ced" /> **I Fink U Freeky** - *Die Antwoord*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
