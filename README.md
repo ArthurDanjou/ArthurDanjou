@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27357fb62f7a15b147ce8894899" /> **Shootin Stars** - *Aero Chord, Ddark*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27319fb4a1d5d0fd56153966642" /> **Master of Death** - *Ghostface Playa*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
