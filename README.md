@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e7bf1c9cb0d5d7c08e2fed34" /> **Animal Style** - *Jackal*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273aa5edf9e5bdebb2f69cce079" /> **idfc (Tarro Remix)** - *blackbear, Tarro*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
