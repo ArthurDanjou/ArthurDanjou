@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273502e1514f96e6b2c6fdff42f" /> **Ingonyama - Bliss Remix** - *Ace Ventura, Juno Reactor, Bliss*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ec0a9eea5aa9110401cebaf4" /> **Everyday Normal Guy 2** - *Jon Lajoie*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
