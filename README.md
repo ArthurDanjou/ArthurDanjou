@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27352e8aa3275f7a3ee9c1e3628" /> **Renegades** - *X Ambassadors*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27336249b0306b3f92f8994d1e2" /> **Filtré** - *Timal, Gazo*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
