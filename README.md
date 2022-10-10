@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737b3d6a24e2db9b280a8c16e3" /> **Nemesis** - *Ryllz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d79cfa3155b50beb5dbeeb9a" /> **Plain Jane** - *A$AP Ferg*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
