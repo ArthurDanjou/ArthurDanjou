@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734d9c9ab3d4e0909a7c3fc5b6" /> **Tender Lies** - *Türküm*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730a40f8bf654154cb992ac870" /> **Coming In Hot** - *Andy Mineo, Lecrae*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
