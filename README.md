@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730a40f8bf654154cb992ac870" /> **Coming In Hot** - *Andy Mineo, Lecrae*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d30db7be0da60046d5f0d936" /> **The Search** - *NF*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
