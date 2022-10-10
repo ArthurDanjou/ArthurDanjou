@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b7892f3464c047a3dbe0a033" /> **The Kid** - *Coopex, The FifthGuys, Godmode*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736b5f7f452f8443896ab8347c" /> **Solo Dance** - *Martin Jensen*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
