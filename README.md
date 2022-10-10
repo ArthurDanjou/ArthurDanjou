@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e081ca83069e0085ef7af583" /> **Hammer** - *Dirtyphonics, Sullivan King*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273249f19151e53b3e53f4cbd03" /> **Cracks** - *Killstation, Joei Razook*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
