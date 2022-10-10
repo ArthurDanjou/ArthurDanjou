@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27314a6dd7008ae0e69fb88b0f0" /> **IDGAF** - *Besomorph, Silent Child*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27335b8a2f89de48eab0a773b25" /> **LOCO** - *Machine Gun Kelly*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
