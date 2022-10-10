@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730c8d958dbd51458368aa7e12" /> **Zaramay: Bzrp Music Sessions, Vol. 31** - *Bizarrap, ZARAMAY*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c7a6cd6a554292b106b90c29" /> **Boy Red** - *Night Lovell*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
