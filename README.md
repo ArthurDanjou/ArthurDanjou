@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273672c8e63ae6727da2908c9e5" /> **Blood Oceans (How Many?)** - *Ghostemane, PHARAOH*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731639a8d80e5ebd9d988e0b47" /> **Drop It Down Like - Radio Edit** - *Lady Bee, Rachel Kramer*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
