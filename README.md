@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734c4223579744e1ff740eb3ee" /> **Creed** - *Türküm, EBEN*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" /> **Till I Collapse** - *Eminem, Nate Dogg*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
