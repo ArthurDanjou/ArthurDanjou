@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27323934e14a41f67b90ba8e809" /> **The Future** - *Max Brhon*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734c4223579744e1ff740eb3ee" /> **Creed** - *Türküm, EBEN*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
