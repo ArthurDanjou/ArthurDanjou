@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890" /> **Walk It Talk It** - *Migos, Drake*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27393beea1844a8f517991eb8a5" /> **Aleman: Bzrp Music Sessions, Vol. 15** - *Bizarrap, Aleman*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
