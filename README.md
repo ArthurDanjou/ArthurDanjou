@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ff62e603fe8ea1813b4ff5a8" /> **Kemba Walker** - *Eladio Carrion, Bad Bunny*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739d1b9ca0bc88d18332a79bc8" /> **Switch It Up** - *Marcus*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
