@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27366065aca671ca93eebc6a6c0" /> **Dead to Me** - *Lox Chatterbox*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27313d4adf9e4b938f88266f4e4" /> **Dragula** - *Rob Zombie*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
