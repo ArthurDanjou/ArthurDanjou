@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273dfd0ebe9b4b99f621f376453" /> **Mockingbird** - *Eminem*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27365136cbf37de99af8963793b" /> **Great Spirit** - *Armin van Buuren, Vini Vici, Hilight Tribe*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
