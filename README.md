@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27376df46a3fd82c419a2dc0a43" /> **Lift Me Up (feat. Rob Halford of Judas Priest)** - *Five Finger Death Punch*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27390d3d845e44007dcf2fc0e29" /> **Photo** - *YONAS*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
