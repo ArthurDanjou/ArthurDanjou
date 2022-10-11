@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731ffc278c5a2d7e1cfdb2cd17" /> **U Mad Bro** - *Kevin Flum*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27337a2a9f2262545115c1dad2a" /> **Runnin' Thru The 7th With My Woadies** - *$uicideboy$, Pouya*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
