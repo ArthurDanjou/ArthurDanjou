@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cdd7cbb3549572285b6e0ddb" /> **UP IN SMOKE** - *RIN*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf" /> **Ambitionz Az A Ridah** - *2Pac*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
