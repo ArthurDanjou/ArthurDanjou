@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5" /> **Everybody Dies In Their Nightmares** - *XXXTENTACION*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" /> **You Got Me** - *G-Eazy*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
