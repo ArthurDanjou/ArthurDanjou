@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738e09afbd80f0c20cde395b03" /> **Cuidao Con Mi Mujer (feat. Arcangel, Farruko & Genio)** - *Alexio, Arcangel, Farruko, Genio*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739f96362550e09800a5f24481" /> **Death Grip** - *Unaverage Gang*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
