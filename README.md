@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27320d74a19e92b45c70eae061b" /> **Jumpman** - *Drake, Future*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a0ce5bc6a985ffec85ecda68" /> **Burn The Stars** - *Massive Vibes*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
