@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c7a6cd6a554292b106b90c29" /> **Boy Red** - *Night Lovell*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bed1058bc2c26075a503ec95" /> **Life Is Short** - *Ski Mask The Slump God*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
