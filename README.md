@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f956e568402a8f7867615a7a" /> **Lights Down Low - Not Your Dope Remix** - *MAX, Not Your Dope*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fae49ec3568b12698cf1ed51" /> **Louis Vuitton** - *Duki, Mesita, 44 Kid*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
