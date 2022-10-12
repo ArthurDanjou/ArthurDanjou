@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" /> **Numb / Encore** - *JAY-Z, Linkin Park*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27354c0c1ea300d471e9eb90ae9" /> **Jeffer Drive** - *$uicideboy$*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
