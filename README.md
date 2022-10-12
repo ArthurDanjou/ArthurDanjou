@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802" /> **Enter Sandman** - *Metallica*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c" /> **the remedy for a broken heart (why am I so in love)** - *XXXTENTACION*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
