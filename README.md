@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c" /> **the remedy for a broken heart (why am I so in love)** - *XXXTENTACION*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ac577027587c8541d8313710" /> **Pa'l Norte (feat. Orishas)** - *Calle 13, Orishas*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
