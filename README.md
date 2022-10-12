@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735ff39fb9348b38e80a590d14" /> **No Introduction** - *Dr. Fresch*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27372513b0fc87a6a592f67d0b2" /> **Exxidae** - *Glacial Music, Sergio Moreno*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
