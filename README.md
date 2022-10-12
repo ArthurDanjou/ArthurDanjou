@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a715d32590424cd667879ba3" /> **Bück dich** - *Rammstein*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cf9b68115dcb2a222c252f00" /> **Bad and Boujee (feat. Lil Uzi Vert)** - *Migos, Lil Uzi Vert*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
