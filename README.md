@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739f96362550e09800a5f24481" /> **Death Grip** - *Unaverage Gang*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27366bf341bc12b758520783491" /> **Mamichula - con Nicki Nicole** - *Trueno, Nicki Nicole, Bizarrap, Taiu, TATOOL*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
