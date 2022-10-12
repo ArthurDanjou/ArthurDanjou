@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273049757e0ffbac086579b028f" /> **Wake Up** - *Kayzo, RIOT*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737b446f9b1fc77534e8be91da" /> **Faith** - *Yasu*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
