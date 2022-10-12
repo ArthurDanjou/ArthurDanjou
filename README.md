@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fae49ec3568b12698cf1ed51" /> **Louis Vuitton** - *Duki, Mesita, 44 Kid*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bd84a9a73163a75d9d8c6203" /> **Ooh Ahh (My Life Be Like) (feat. Toby Mac)** - *Grits, TobyMac*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
