@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27326b7dd89810cc1a40ada642c" /> **Good News** - *Mac Miller*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731639a8d80e5ebd9d988e0b47" /> **Drop It Down Like - Radio Edit** - *Lady Bee, Rachel Kramer*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
