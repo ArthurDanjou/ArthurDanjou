@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731a425448f3cc9d77f09ef6f7" /> **TILT SHIFT** - *MVLTIPLY*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273508d4a4ddabaff7cb799ac86" /> **Living On Video - Hardstyle Version** - *TCM, DRAAH*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
