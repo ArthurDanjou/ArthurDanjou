@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27340011295ba5de16d5280a0e4" /> **Tell Me (Interlude)** - *MICS*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b92539ad168f8ab8ee6858db" /> **Ecuador - Hardstyle Version** - *TCM*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
