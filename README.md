@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273057698407d4551ffdeb8abb7" /> **Mood** - *13 Block*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736c8913d2756976ab19c95261" /> **Kobe (feat. Zola)** - *13 Block, Zola*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
