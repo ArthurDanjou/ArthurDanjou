@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27363bcf8ec403aaa39968c678d" /> **LIGHT SPEED** - *Swim Practice*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b43077433dca1753c4cfdf9c" /> **Take Me Away** - *Somber, Warlord Colossus*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
