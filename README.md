@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ca53adf3323e722afa0cf493" /> **100G** - *Zokush*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735bd87bba020ee47857199f6b" /> **Vrai négro** - *13 Block*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
