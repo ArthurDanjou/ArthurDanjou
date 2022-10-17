@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273099d5d17a781f1b1d4279324" /> **Sigma** - *Primigenios*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731241d1184f22a9d78d168ab4" /> **You're Strong** - *Bern-AT & WARLEX, Nandex*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
