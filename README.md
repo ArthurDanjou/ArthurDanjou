@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b3fb56a158cbae4d0830fdc9" /> **Alone** - *Jan Metternich*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27302e467285c2abfdb33198047" /> **Buried Alive** - *Jan Metternich, feelthisshit*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
