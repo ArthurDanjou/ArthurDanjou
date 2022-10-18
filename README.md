@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730cbffd1f0d3dc15815e4acad" /> **Formula 1 Theme - Frenchcore Edit** - *TCM*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273f55795d23ce2b0ceae072de4" /> **On My Mind** - *Jan Metternich*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
