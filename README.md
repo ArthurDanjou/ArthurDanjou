@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731a425448f3cc9d77f09ef6f7" /> **TILT SHIFT** - *MVLTIPLY*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a77fc8131a030735d23ae725" /> **Don't You Worry Child - Hardstyle** - *Son Of Zeus*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
