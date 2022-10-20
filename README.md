@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735b60ccb5a3cb3b1b444ed9b5" /> **AKIMBO** - *CRYDE UMRIZ*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736da0600c959c00917104caec" /> **INSANITY** - *CRYDE UMRIZ*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
