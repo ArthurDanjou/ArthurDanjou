@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734026c8d27ee866bc6a4aabb4" /> **Glass Coffin** - *Sidewalks and Skeletons, Brothel*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735b682133ebd314d61f64887f" /> **Simulation** - *Robsan, Nyke Nick, Krispel*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
