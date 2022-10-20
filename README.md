@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732e12158ae3dbc9568c46dadb" /> **6.6.6.** - *SKVLTURE*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273aa7ae885d8691193475b055c" /> **idfc - Acoustic Remake; Slowed** - *DJ Espinos*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
