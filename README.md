@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97" /> **I Like You (A Happier Song) (with Doja Cat)** - *Post Malone, Doja Cat*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731b51f809c31f0d98f67c0b7d" /> **Another Love** - *Tom Odell*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
