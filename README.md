@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27304cd9a1664fb4539a55643fe" /> **STAR WALKIN' (League of Legends Worlds Anthem)** - *Lil Nas X*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97" /> **I Like You (A Happier Song) (with Doja Cat)** - *Post Malone, Doja Cat*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
