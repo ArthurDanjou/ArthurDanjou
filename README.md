@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b5d9043bc1712f38225a67b0" /> **Universe** - *Tevvez*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b43077433dca1753c4cfdf9c" /> **Take Me Away** - *Somber, Warlord Colossus*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
