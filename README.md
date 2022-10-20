@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736944420b7a2a0e966ccad292" /> **Close Eyes - Slowed + Reverb** - *DVRST*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736cab5fa225ddba2f9e4b8f9b" /> **Whatever They Say** - *Jan Metternich*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
