@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735b682133ebd314d61f64887f" /> **Simulation** - *Robsan, Nyke Nick, Krispel*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730cbc0d68977299093a36c2a6" /> **Black Seas** - *KSLV Noh*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
