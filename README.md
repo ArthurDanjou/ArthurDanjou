@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730ed3996f02b486f120009618" /> **Wrong** - *Jan Metternich*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735b7e8745519c52e972f8cd9c" /> **Catherine** - *Beangod, Future Coffins*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
