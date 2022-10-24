@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734239a6aa89738d8f798168ad" /> **Pepas** - *Farruko*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273142b21bd73f912e8dfd72ade" /> **Where Is My Mind** - *Maxence Cyrin*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
