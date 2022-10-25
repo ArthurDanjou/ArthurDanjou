@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27309e275682846bf704096e2b2" /> **Spinning Silver** - *TRIIIPL3 INC., Dirty Workz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273483bcfeb5391781d611653b8" /> **YOU AND I** - *Mish, Sickmode*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
