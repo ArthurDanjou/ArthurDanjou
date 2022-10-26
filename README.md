@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ac0c4196438cb8f68520415f" /> **Anesthesia** - *Ran-D, Rejecta*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736e9cba73e17558eabbe6c5b0" /> **Lacrimosa** - *Apashe*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
