@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ece2c9882f5f28c745b29eb3" /> **City Lights** - *Wasted Penguinz, D-Charged*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273005b603178a7b6a60415134e" /> **Mne Malo Malo Malo Tebya** - *heracles*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
