@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732364c9f4614ed64297310ab8" /> **Fight For Something** - *Brennan Heart, Coone, Max P*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273df7aa528d6f7c194629f33bb" /> **Blue Night Sky** - *NOVUS*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
