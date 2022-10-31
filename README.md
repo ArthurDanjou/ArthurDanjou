@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27385c1c17afd179a6057c2461d" /> **Hero** - *Wildstylez*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27305620b6904adf3f2de97504a" /> **Until the Day I Die** - *Jebroer, Sub Sonik, LePrince*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
