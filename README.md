@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27340011295ba5de16d5280a0e4" /> **Tell Me (Interlude)** - *MICS*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d3a5be459bdbca39f2376d98" /> **Dead To Me - Slow + Reverb** - *Whales, Fraxo, Lox Chatterbox*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
