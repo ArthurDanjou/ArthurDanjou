@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a813f33b778371b9466ab652" /> **Spectre** - *Tevvez*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e56438b5df990b03f59d0d00" /> **Fire To The Rain - Hardstyle Remix** - *ANDONIS*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
