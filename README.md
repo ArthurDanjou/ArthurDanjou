@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273366d7221e81b6d1f06cca430" /> **Son of Zeus** - *Dionysus*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273596238a85f1ddc7fbcbdcbf1" /> **Surrender** - *D-Charged, Amy Mae Lou*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
