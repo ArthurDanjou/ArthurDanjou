@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273118cfd914334c99f97bb5a9d" /> **KILL THEM** - *Ethan Ross, Max Volante*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273508a67784b82d317ca1ae2f4" /> **Axel F - Hardstyle Version** - *TCM*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
