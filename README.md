@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c357070e9c8805e6aacae25b" /> **Disaster** - *KSLV Noh*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731a425448f3cc9d77f09ef6f7" /> **TILT SHIFT** - *MVLTIPLY*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
