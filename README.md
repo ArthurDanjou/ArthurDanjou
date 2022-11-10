@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731bc0722e212961402e1d57c9" /> **OUTSIDE HARDSTYLE SPED UP** - *SICK LEGEND, SPED UP SICK CVNT, HARDSTYLE BRAH*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c922e9424bccb4a3daf96700" /> **Lights** - *Always Mirin*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
