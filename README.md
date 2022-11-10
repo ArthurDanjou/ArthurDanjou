@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d9cea14d1362dcf1b961c0f9" /> **sweater weather - slowed + reverb** - *omgkirby*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739e02dc7e242aa2a959cc9e5b" /> **E.T. ZYZZ HARDSTYLE** - *PXSEIDON*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
