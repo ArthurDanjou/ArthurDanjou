@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731721b7323afccba2238468e3" /> **Superpower** - *CatchTwentyTwo*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273172d715347de5794d81150bc" /> **jinchūriki** - *Phillip Dark, 818 SUKI*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
