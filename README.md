@@ -17,7 +17,8 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-Currently not listening to anything with Spotify
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c060765288c9f00c1f0a0aeb" /> **Live It Up - Official Song 2018 FIFA World Cup Russia** - *Nicky Jam, Will Smith, Era Istrefi*  <br/>
+Listening from **iPhone**
 <!-- End Song -->
 
 ## 📊 Statistics about my dev activity from [api.arthurdanjou.fr](https://api.arthurdanjou.fr)
