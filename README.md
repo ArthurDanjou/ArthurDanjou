@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c1bfa829b24caf2124350fb3" /> **CONTROL** - *MVLTIPLY*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bc3610dfd57f7e6590913488" /> **Punishment - Fast and Furious: Drift Tape/Phonk Vol 1** - *MUPP*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
