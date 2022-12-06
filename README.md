@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27355b68954f6268889dd03a590" /> **Sem's Song** - *Envine, Michael Jo*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273657a35e1d947c1142666854b" /> **Drifting In The Dark** - *Alleviate, Dirty Workz*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
