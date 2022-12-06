@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2733ddaa51c49ab1ae316023c0a" /> **Ride With Me (feat. Kid Ink) - Brennan Heart Remix** - *Tungevaag, Kid Ink, Brennan Heart*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273596238a85f1ddc7fbcbdcbf1" /> **Surrender** - *D-Charged, Amy Mae Lou*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
