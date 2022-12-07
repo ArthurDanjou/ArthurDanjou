@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739ac78dcce93371660118f19f" /> **DEATH RACE** - *Lil Lucifer, DeadBeatVillain*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273666a2fcfd6d74ff30ef28c8e" /> **ННД** - *Tomorrow*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
