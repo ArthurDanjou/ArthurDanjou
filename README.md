@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273dbe9c4609ec382dcc0391e62" /> **Diamonds - Remix** - *Rihanna, Kanye West*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736dee21d6cd1823e4d6231d37" /> **Diamonds** - *Rihanna*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
