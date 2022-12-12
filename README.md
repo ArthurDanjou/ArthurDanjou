@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273699da7fe16923709d6adaf1d" /> **BXL ZOO** - *Damso, Hamza*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e8974c080901a51e8f2abbc6" /> **Salomé** - *Tayc, Marcus*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
