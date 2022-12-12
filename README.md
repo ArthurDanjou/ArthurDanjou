@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273034f85da463faf79527d1fe0" /> **Onizuka** - *PNL*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273765b01901c10003211f8554d" /> **CELINE 3X** - *Gazo*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
