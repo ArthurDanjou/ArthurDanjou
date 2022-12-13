@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734309487065ea7747cbabec34" /> **A Dark Knight Screaming Inside** - *Ezediel*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d556899f280a247ed7d1acbf" /> **SNORLAX** - *818 SUKI, Phillip Dark*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
