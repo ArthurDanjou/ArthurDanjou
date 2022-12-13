@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731a72a89289a84508ec50de3c" /> **Top Gun Anthem - Hardstyle Version** - *TCM*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730164c3af434df24b6b4c4686" /> **God Of War** - *Ares*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
