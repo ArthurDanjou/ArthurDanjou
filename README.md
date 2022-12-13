@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b5d4df0dfde4096c15ce1d64" /> **FUM22 NOCIVE** - *Green Montana*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273441e66208ec5b91873d655f1" /> **Shake, Pt. 2 - Get Get Down Version** - *IShowSpeed, dj Shawny*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
