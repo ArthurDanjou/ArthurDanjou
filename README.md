@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273db759cd157659c607bbbb395" /> **BAD INTENTIONS** - *Lil Lucifer, DeadBeatVillain*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732ba8201594c6c7a8374e39c9" /> **WARPED** - *d0xy*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
