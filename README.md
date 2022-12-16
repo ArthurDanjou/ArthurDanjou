@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27311cc81d78e74834d4dfae041" /> **INCOMING** - *MC ORSEN*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736081278cb62df2757d55633b" /> **Kyoto (feat. Sirah)** - *Skrillex, Sirah*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
