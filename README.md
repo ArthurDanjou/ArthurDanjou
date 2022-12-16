@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273272ed6f6c5308d1d076787b5" /> **Techno Cats** - *Slowboy, lucaf.*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27320e23a4f6d8f06712c4a5509" /> **EXERTION** - *Nemecist*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
