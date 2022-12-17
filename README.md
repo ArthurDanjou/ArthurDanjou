@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bef8c6188dda23c82aea3095" /> **Anakin's Dark Deeds** - *John Williams, London Symphony Orchestra, London Voices*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273149cf6977defe909fd7d34fd" /> **None Shall Live** - *Two Steps from Hell, Thomas Bergersen*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
