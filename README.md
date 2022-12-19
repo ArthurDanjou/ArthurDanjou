@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732598515b838d9d1e091c0b2a" /> **VOID** - *d0xy*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735ad6dc867bc8d2e0a7fedeff" /> **ADRENALINE - Sped Up** - *MVLTIPLY*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
