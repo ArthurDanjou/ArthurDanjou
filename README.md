@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273174e964b6fdf664e564b4f62" /> **Legacy** - *Tevvez*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27387bfbffbaa5ce3f92b388bd4" /> **Cold Bushido** - *Ezediel*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
