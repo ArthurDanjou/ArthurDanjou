@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bf203d76f2bea51656862edd" /> **Feliz Navidad** - *José Feliciano*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d545b93d95a4305c8ea2e178" /> **Born to Be Alive - The Original** - *Patrick Hernandez*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
