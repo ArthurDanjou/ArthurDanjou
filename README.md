@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3" /> **Rockin' Around The Christmas Tree** - *Brenda Lee*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737433091a6f712dd6f5b15537" /> **Merry Christmas Baby** - *Otis Redding*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
