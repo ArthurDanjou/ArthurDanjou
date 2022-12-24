@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273588dad494970b63c24eed8b3" /> **My Last Mistake** - *The David Motel*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b2ed9f8cdfcbcc5685adb542" /> **have yourself a merry little christmas** - *blondette, sweet planet*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
