@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fa7d980eae9fbb53f2899b08" /> **The Christmas Song (Shawn Mendes & Camila Cabello)** - *Shawn Mendes, Camila Cabello*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737433091a6f712dd6f5b15537" /> **Merry Christmas Baby** - *Otis Redding*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
