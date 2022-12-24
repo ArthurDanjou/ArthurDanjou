@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" /> **All I Want for Christmas Is You** - *Mariah Carey*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730315efc555d5a157b0392652" /> **Christmas Love** - *Justin Bieber*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
