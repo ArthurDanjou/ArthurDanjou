@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c77c9501cf79f95b730f69a9" /> **all i want for christmas is you** - *Eden Elf*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bf203d76f2bea51656862edd" /> **Feliz Navidad** - *José Feliciano*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
