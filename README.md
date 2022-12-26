@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2733992d6e9397d33a8a5e52b98" /> **Demons with a Broken Heart** - *Ezediel*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735ad6dc867bc8d2e0a7fedeff" /> **ADRENALINE - Sped Up** - *MVLTIPLY*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
