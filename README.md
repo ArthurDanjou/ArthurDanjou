@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ffcc9f0637ec1e2715b3cc8c" /> **TieksVie** - *Damso*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e3762027f2f6ff4c9dd0e9bc" /> **Elles ont trop joué avec mon coeur** - *Jok'air*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
