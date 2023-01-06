@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738f5636c9f7c8e432f81fe29a" /> **Heart of Courage** - *Thomas Bergersen, Two Steps from Hell*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27358ba1ea637001f9a15e55a92" /> **Du propre** - *Orelsan*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
