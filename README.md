@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732724364cd86bb791926b6cc8" /> **CP_009_ Évidemment** - *Orelsan, Angèle*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730e58a0f8308c1ad403d105e7" /> **CUFF IT** - *Beyoncé*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
