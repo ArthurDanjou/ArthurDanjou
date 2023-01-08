@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d9aa35388f815f95c919d8e3" /> **Children of the Omnissiah** - *Guillaume David*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27361d88d122004a25e3a3c64df" /> **Love Letters** - *Metronomy*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
