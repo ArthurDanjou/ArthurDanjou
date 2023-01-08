@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27337a71444039f3fd3789bee2e" /> **Jedi Temple March** - *Pianistec*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737582716b3666a5235d5af4ea" /> **Redbone** - *Childish Gambino*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
