@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273db95ca102b599b439e5937ca" /> **Better Off Alone** - *Always Mirin*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738d7d8c862a17331358a4cba1" /> **Rave Love** - *W&W, AXMO, SONJA*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
