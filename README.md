@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cee8f34e92c8e0d340e6b499" /> **Party** - *Lady Faith*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730fb11062aca3e2920a79b7a5" /> **Stay Alive** - *D-Attack, MC Diesel*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
