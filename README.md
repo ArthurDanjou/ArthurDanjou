@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731b86a565f428cedd6afe81c8" /> **LIGHTS** - *HARDSTYLE CVNT*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d0fd950d4bc2fa2c560065e9" /> **Fire to the Rain - Original Pitch** - *ANDONIS*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
