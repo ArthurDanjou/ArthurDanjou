@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" /> **Sure Thing** - *Miguel*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c9f744b0d62da795bc21d04a" /> **La Bachata** - *Manuel Turizo*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
