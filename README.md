@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739a494f7d8909a6cc4ceb74ac" /> **Under The Influence** - *Chris Brown*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a" /> **STAY (with Justin Bieber)** - *The Kid LAROI, Justin Bieber*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
