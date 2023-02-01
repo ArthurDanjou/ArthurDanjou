@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d9c23b8b98ad4f9bf05802a3" /> **Le cœur des filles** - *A2h*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27355b412a1d028a882f30c0f28" /> **La mort a du goût** - *Bekar*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
