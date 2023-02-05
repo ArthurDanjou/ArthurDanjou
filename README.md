@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737782c6100a3c21bfbed3dd43" /> **Des milliers de je t'aime** - *Slimane*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a7d75894c7fc23960d29509f" /> **Shining Light** - *Aime Simone*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
