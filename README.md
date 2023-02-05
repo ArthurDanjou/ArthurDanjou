@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27342093925d784c0ef5e6f3705" /> **Cadeau (feat. Tiakola)** - *Aya Nakamura, Tiakola*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf" /> **Calm Down (with Selena Gomez)** - *Rema, Selena Gomez*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
