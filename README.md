@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734792e30dd6fdd4e878f0340a" /> **Paradise (feat. Lomepal)** - *Lefa, Lomepal*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732b0d9bad2c2afc7888a71df4" /> **Bébé de Bogota** - *Moha La Squale*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
