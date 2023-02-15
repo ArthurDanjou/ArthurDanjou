@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273992a1f56ac5382848277cff2" /> **Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By** - *Rihanna*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a7d75894c7fc23960d29509f" /> **Shining Light** - *Aime Simone*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
