@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2733c9df4c3afb30980eec2674e" /> **Jolie (feat. Ninho)** - *GAULOIS, Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812" /> **Shakira: Bzrp Music Sessions, Vol. 53** - *Bizarrap, Shakira*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
