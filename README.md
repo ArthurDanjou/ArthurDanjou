@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27311b232781481f23f659ba798" /> **3 singes** - *Werenoi, Ninho*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27391920ef807b3e1bf1d79e2c7" /> **PETETE** - *Gambi*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
