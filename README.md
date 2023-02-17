@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fc3ff54493fcc890bcaa036c" /> **Unholy (feat. Kim Petras)** - *Sam Smith, Kim Petras*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c009b22a08eee835ce3efeb9" /> **SNAP** - *Rosa Linn*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
