@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c009b22a08eee835ce3efeb9" /> **SNAP** - *Rosa Linn*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732253de37a742b8f65c8d5d2e" /> **Un jour je marierai un ange** - *Pierre de Maere*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
