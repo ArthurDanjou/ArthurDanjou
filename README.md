@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730a4126e7a0327ffa1c41c1f5" /> **Us vs. Them (feat. Gucci Mane)** - *Quavo, Takeoff, Gucci Mane*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ed05a91d503057cce752e8dc" /> **Hanging With Wolves** - *Lil Durk*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
