@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27386d94c4dd7ad22e6c4fd4c59" /> **La Force Tranquille** - *Djadja & Dinaz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273933c036cd61cd40d3f17a9c4" /> **I'm Good (Blue)** - *David Guetta, Bebe Rexha*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
