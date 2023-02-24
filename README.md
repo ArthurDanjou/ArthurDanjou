@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273db09958534ac66f9a90d3cf7" /> **Big Poppa - 2005 Remaster** - *The Notorious B.I.G.*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" /> **Heat Waves** - *Glass Animals*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
