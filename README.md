@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c" /> **Never Love Again** - *Eminem*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f" /> **The Box** - *Roddy Ricch*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
