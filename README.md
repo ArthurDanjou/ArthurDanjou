@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04" /> **Big Poppa - 2007 Remaster** - *The Notorious B.I.G.*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" /> **Good Morning** - *Kanye West*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
