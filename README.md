@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" /> **Still D.R.E.** - *Dr. Dre, Snoop Dogg*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737582716b3666a5235d5af4ea" /> **Redbone** - *Childish Gambino*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
