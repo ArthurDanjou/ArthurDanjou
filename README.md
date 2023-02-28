@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd" /> **Off The Grid** - *Kanye West*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735038c2513329a3123b62923d" /> **Whoopty** - *CJ*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
