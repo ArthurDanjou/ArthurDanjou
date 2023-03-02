@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273277127a7e8921eeccf4a6685" /> **Possédé** - *Djadja & Dinaz*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273096bc35b0dc8bd9b86da503a" /> **Los Angeles** - *Siaka*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
