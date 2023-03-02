@@ -25,7 +25,7 @@ Listening from **PC-FIXE-ARTHUR**
 <!-- Start Table -->
 | Title                                       |       Daily |      Weekly |      Monthly |        Total |
 | :------------------------------------------ | ----------: | ----------: | -----------: | -----------: |
-| :hourglass_flowing_sand: Hours Spent Coding |  **0.00hrs**  | **11.51hrs**   | **27.77hrs**    | **678.79hrs**   |
+| :hourglass_flowing_sand: Hours Spent Coding |  **0.01hrs**  | **11.52hrs**   | **27.78hrs**    | **678.80hrs**   |
 | :computer: Terminal Commands                |  **0**  | **0**   | **0**    | **6**    |
 | :hammer: Docker Builds                      |  **0**  | **0**   | **0**    | **3**    |
 <!-- End Table -->
