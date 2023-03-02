@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27305ea98f48e7a68899942a4fb" /> **Si j'savais** - *Tiakola*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27321b2abea11b8c5208a17c5fa" /> **Mode AV (feat. Niska & Gazo)** - *Tiakola, Niska, Gazo*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
