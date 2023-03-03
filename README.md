@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27355b68954f6268889dd03a590" /> **Sem's Song** - *Envine, Michael Jo*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273596238a85f1ddc7fbcbdcbf1" /> **Surrender** - *D-Charged, Amy Mae Lou*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
