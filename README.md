@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273daef101a4d2a16401b6e20e9" /> **Marie** - *Koba LaD*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736980f526f49472de409210b7" /> **Journée** - *Niska, Tiakola*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
