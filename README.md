@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a8eb26ad222dc5014db8bad3" /> **Just Dance (Hardstyle)** - *puremind*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e43834a402e3a6b1e33e70d7" /> **Addicted To The Night** - *Primeshock, Diandra Faye*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
