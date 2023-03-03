@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27342ad15bc42bf03a63e24a421" /> **Atasanté Part.2** - *Hamza, Tiakola*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2733ec59c3f45f55aa59318e3c1" /> **La musique est bonne** - *Naza, Heuss L'enfoiré*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
