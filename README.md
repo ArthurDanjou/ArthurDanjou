@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b" /> **Praise The Lord (Da Shine) (feat. Skepta)** - *A$AP Rocky, Skepta*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2736cf001db12b8569231951c96" /> **Ambition For Cash** - *Key Glock*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
