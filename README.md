@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735de048eb9ca94916178afb20" /> **All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)** - *DJ Khaled*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d" /> **How We Do** - *The Game, 50 Cent*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
