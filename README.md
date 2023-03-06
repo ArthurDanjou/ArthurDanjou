@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27363560e631ec924bf19b1705c" /> **BET** - *Russ*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c2cb86cb17220e3266a3e128" /> **AMUSED** - *Jnr Choi, Fivio Foreign*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
