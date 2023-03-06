@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d" /> **How We Do** - *The Game, 50 Cent*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" /> **N95** - *Kendrick Lamar*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
