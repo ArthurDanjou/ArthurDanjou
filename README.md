@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cc0a0754a8d111f6d40d1f78" /> **Robert Horry Freestyle** - *Marlon Craft*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e20b7842be1a2bdd79563ef6" /> **Son Of A Gun** - *Key Glock*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
