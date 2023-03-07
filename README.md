@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad" /> **On BS** - *Drake, 21 Savage*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273632256808cfff32df450f159" /> **GOATED. (feat. Denzel Curry)** - *Armani White, Denzel Curry*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
