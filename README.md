@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a" /> **pushin P (feat. Young Thug)** - *Gunna, Future, Young Thug*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2733f66b5b49ccea004a5ef0db2" /> **Lose Yourself** - *Eminem*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
