@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3" /> **SICKO MODE** - *Travis Scott*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ab1b84f1d1623165e3a0ab46" /> **LFG!** - *Sheck Wes*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
