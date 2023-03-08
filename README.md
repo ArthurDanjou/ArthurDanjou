@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732253de37a742b8f65c8d5d2e" /> **Un jour je marierai un ange** - *Pierre de Maere*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27304cd9a1664fb4539a55643fe" /> **STAR WALKIN' (League of Legends Worlds Anthem)** - *Lil Nas X*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
