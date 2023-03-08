@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738de12a274f6e1df6634f57ec" /> **Die For You - Remix** - *The Weeknd, Ariana Grande*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a108e2731d6ce9a6a7e06261" /> **Alpha** - *Djadja & Dinaz*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
