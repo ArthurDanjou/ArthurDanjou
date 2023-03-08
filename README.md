@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273092600fab449ea0cfa04cccd" /> **Fetty Wap** - *Maes*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a108e2731d6ce9a6a7e06261" /> **Pas là - Bonus track - édition Aube** - *Djadja & Dinaz*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
