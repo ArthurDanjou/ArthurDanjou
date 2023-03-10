@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a" /> **pushin P (feat. Young Thug)** - *Gunna, Future, Young Thug*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27346619103df97d8db63fdda6b" /> **Run (feat. Tyga, 21 Savage & BIA)** - *YG, Tyga, 21 Savage, BIA*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
