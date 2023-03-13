@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a7f2bf7c6eeb841cb4cf0b15" /> **Torpedo** - *Rae Sremmurd*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730c7249c0e6baeea368d2e8aa" /> **Truth** - *Kid Ink*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
