@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" /> **Dior** - *Pop Smoke*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bb831f3205d64c96e03dc462" /> **Finger Food** - *Rolling Loud, Rae Sremmurd, Duke Deuce*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
