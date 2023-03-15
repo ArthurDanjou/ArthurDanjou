@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46" /> **Flowers** - *Miley Cyrus*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812" /> **Shakira: Bzrp Music Sessions, Vol. 53** - *Bizarrap, Shakira*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
