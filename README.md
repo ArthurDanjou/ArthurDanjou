@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735b7ff9df85c560c0ed9a7274" /> **Vie d'Avant** - *LAZZIO, SDM*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d34da31b55f52c4c06a12dff" /> **Dis-moi oui** - *PLK*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
