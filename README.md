@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c1b211b5fcdef31be5f806df" /> **THE LONELIEST** - *Måneskin*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739a494f7d8909a6cc4ceb74ac" /> **Under The Influence** - *Chris Brown*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
