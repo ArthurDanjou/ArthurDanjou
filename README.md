@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27327ab87ccd4bae4b6c10f40c9" /> **Devil Side** - *GOTOU寄生獣*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735b60ccb5a3cb3b1b444ed9b5" /> **AKIMBO** - *CRYDE UMRIZ*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
