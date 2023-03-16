@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" /> **Bones** - *Imagine Dragons*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" /> **OMG** - *NewJeans*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
