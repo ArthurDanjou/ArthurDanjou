@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730cbc0d68977299093a36c2a6" /> **Black Seas** - *KSLV Noh*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27327ab87ccd4bae4b6c10f40c9" /> **Devil Side** - *GOTOU寄生獣*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
