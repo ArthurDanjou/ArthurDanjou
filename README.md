@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734b0ddebba0d5b34f2a2f07a4" /> **Tormenta (feat. Bad Bunny)** - *Gorillaz, Bad Bunny*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13" /> **Bones** - *Imagine Dragons*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
