@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739117ac8cf4dafbf733e9f1d0" /> **Sadio (feat. Offset)** - *Hamza, Offset*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273525d4ed76e5e9926add4ddf7" /> **TOUTE LA JOURNÉE (feat. Tiakola)** - *Zola, Tiakola*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
