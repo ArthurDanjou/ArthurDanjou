@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cf79b3201cff3e3a19942f12" /> **Solitaire** - *Werenoi*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735eb0e9cec42f49289d4871f5" /> **Room 69** - *Tayc*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
