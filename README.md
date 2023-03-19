@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2739117ac8cf4dafbf733e9f1d0" /> **Nocif** - *Hamza, Damso*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273cbb3701743a568e7f1c4e967" /> **LET GO** - *Central Cee*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
