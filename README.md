@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273849466f99d8a61233f287af7" /> **Body** - *Russ Millions, Tion Wayne*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273868e5982d5550abaf6153e96" /> **CHAMPIONS** - *NLE Choppa*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
