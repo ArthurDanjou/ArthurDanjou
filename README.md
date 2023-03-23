@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730cf32251bdb54d0131f2eade" /> **Mask Off (feat. Kendrick Lamar) - Remix** - *Future, Kendrick Lamar*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" /> **DNA.** - *Kendrick Lamar*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
