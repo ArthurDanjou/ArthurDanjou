@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731bbc72ff946f55d4d3188062" /> **Meuda** - *Tiakola*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273c1b211b5fcdef31be5f806df" /> **THE LONELIEST** - *Måneskin*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
