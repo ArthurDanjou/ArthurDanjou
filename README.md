@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27338a0c9e975d3aee9b44a6918" /> **Tout seul** - *Werenoi, Tiakola*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273fedd3df3fa6f52c42fbb9e08" /> **I Ain't Worried** - *OneRepublic*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
