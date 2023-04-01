@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734ee916bc183a97cb3407da21" /> **Décembre - A COLORS SHOW** - *PLK*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738c97b1ac32739140c2c8ba78" /> **Selfie** - *Werenoi, Maes*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
