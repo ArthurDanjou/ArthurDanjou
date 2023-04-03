@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2733d5d89992628887d71aaab68" /> **Sans nouvelle** - *Tiakola*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735acb7dc4fc930afe470afe50" /> **Bosseur (feat. Tiakola)** - *Rsko, Tiakola*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
