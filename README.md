@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731bbc72ff946f55d4d3188062" /> **Roro (feat. SDM)** - *Tiakola, SDM*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2731ff5c2a1de13adb59c9816e5" /> **Hier encore - A COLORS SHOW** - *SDM*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
