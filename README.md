@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b88dd3f6147c30901e18732e" /> **Daddy** - *SDM, Booba*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273bec809ae904df80d2a95e1a5" /> **Légende (feat. SDM)** - *Bramsito, SDM*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
