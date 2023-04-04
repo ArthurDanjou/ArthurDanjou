@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273a5b741e167ba462c7a10f513" /> **B22** - *Maes, Niska*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273765b01901c10003211f8554d" /> **BODIES (feat. Damso)** - *Gazo, Damso*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
