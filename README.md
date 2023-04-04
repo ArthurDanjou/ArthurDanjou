@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2737e9db700d98fd2d9a487df67" /> **LE ZEN ET LES SEINS** - *Green Montana*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738689f99f7ebeea62a569f720" /> **Finesse** - *Pheelz, BNXN fka Buju*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
