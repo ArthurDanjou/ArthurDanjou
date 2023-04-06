@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734d82486b5c7a283ab9ed2797" /> **Tiki Taka** - *Vacra*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27374fda439792b870fa8ddc514" /> **Pistol & Zamal** - *Ziak*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
