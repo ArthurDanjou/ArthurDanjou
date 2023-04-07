@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273e6b017a152ac27b89618dd52" /> **Bosseur (feat. Tiakola)** - *Rsko, Tiakola*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2734e57fe5c1c18f01cc7847ca4" /> **Me sauver** - *Zed, Tiakola*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
