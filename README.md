@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273ed7bea82ccf6b2bf0a572ac5" /> **Redescends (feat Tiakola)** - *SDM, Tiakola*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273b2d55cb56b53af320bd28e19" /> **Mayday** - *Tiakola*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
