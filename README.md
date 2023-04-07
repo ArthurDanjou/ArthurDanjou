@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735eb0e9cec42f49289d4871f5" /> **Room 69** - *Tayc*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27304cd9a1664fb4539a55643fe" /> **STAR WALKIN' (League of Legends Worlds Anthem)** - *Lil Nas X*  <br/>
 Listening from **iPhone**
 <!-- End Song -->
 
