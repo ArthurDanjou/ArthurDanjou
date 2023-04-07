@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273989301c1630ca1ba85183546" /> **La clé** - *Tiakola*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b273dba6351bd984f5876feb656e" /> **Bob Marley (feat. Tiakola)** - *Prototype, Tiakola*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
