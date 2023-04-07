@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730e0ea9aca9860ac2cc1798dd" /> **Mardi gras** - *Maes, Tiakola, Zed*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2730795f6f5173c29036d4595a4" /> **Palavé (feat. Tiakola)** - *Rsko, Tiakola*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
