@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2738aee1e5239a1b6c51a372a60" /> **Genkidama** - *Niska*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2735c7e5bffeb7165d8ba881e93" /> **Allez dehors** - *Fresh, Niska*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
