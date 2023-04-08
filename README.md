@@ -17,7 +17,7 @@
 
 ## <img alt="Spotify Icon" height="20em" width="20em" src="assets/spotify.svg" /> Music Watcher from Spotify
 <!-- Start Song -->
-<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b27376df0481c931a32a3dafb4d2" /> **Céline** - *Elh Kmer, So La Lune*  <br/>
+<img alt="Spotify Cover Image" width="30em" height="30em" src="https://i.scdn.co/image/ab67616d0000b2733bbe265a079a047a655036de" /> **COEUR DE ICE (feat. Damso)** - *Zola, Damso*  <br/>
 Listening from **PC-FIXE-ARTHUR**
 <!-- End Song -->
 
