@@ -1,7 +1,6 @@
 <p align="center">
   <samp>
-    Developer enjoying <strong>Cloud Infrastructure</strong> and <strong>Artificial Intelligence</strong> but also a <strong>Mathematics</strong> student </br>
-    I build tools and services that make life easier or better in some way is what I love to do. </br>
+    Developer passionate about <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>, and a <strong>Mathematics</strong> student at Paris Dauphine-PSL University, specializing in Statistics, Data Analysis and  Machine Learning</br>
     <a href="https://arthurdanjou.fr">me</a> .
     <a href="https://arthurdanjou.fr/writings">writings</a> .
     <a href="https://twitter.com/arthurdanj">tweets</a> .
