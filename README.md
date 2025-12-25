@@ -1,10 +1,18 @@
 <p align="center">
   <samp>
-    Developer passionate about <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>, and a <strong>Mathematics</strong> student at Paris Dauphine-PSL University, specializing in Statistics, Data Analysis and  Machine Learning</br>
-    <a href="https://go.arthurdanjou.fr/website">me</a> .
-    <a href="https://go.arthurdanjou.fr/portfolio">projects</a> .
-    <a href="https://go.arthurdanjou.fr/writings">articles</a> .
-    <a href="https://go.arthurdanjou.fr/twitter">tweets</a> .
-    <a href="https://go.arthurdanjou.fr/linkedin">connect</a>
+    <strong>Research Engineer</strong> & <strong>Applied Mathematics</strong> Student.
+    <br>
+    Master's Candidate at <strong>Paris Dauphine-PSL</strong> (Data Science).
+    <br>
+    Focusing on <strong>AI Safety</strong>, <strong>Robustness</strong>, and <strong>Statistical Learning</strong>.
+    <br><br>
+    <a href="https://go.arthurdanjou.fr/website">About Me</a> —
+    <a href="https://go.arthurdanjou.fr/portfolio">Engineering & Labs</a> —
+    <a href="https://go.arthurdanjou.fr/uses">Uses</a> —
+    <a href="https://go.arthurdanjou.fr/hobbies">Hobbies</a>
+    <br>
+    <a href="https://go.arthurdanjou.fr/linkedin">LinkedIn</a> —
+    <a href="https://go.arthurdanjou.fr/twitter">Twitter</a> — 
+    <a href="https://go.arthurdanjou.fr/cv">Resume</a>
   </samp>
 </p>
