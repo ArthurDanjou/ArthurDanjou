@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
-    <strong>Research Engineer</strong> & <strong>Applied Mathematics</strong> Student.
+    <strong>AI Research Intern</strong> & <strong>Applied Mathematics</strong> Student.
     <br>
-    Master's Candidate at <strong>Paris Dauphine-PSL</strong> (Data Science).
+    CMAP at Ecole Polytechnique, France
     <br>
     Focusing on <strong>AI Safety</strong>, <strong>Robustness</strong>, and <strong>Statistical Learning</strong>.
     <br><br>
